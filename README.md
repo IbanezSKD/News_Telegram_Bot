@@ -5,6 +5,8 @@ Scrapy
 
     https://habr.com/ru/post/308660/
     
+    scrapy crawl spider
+    
 Telegram
 
     https://tproger.ru/translations/telegram-bot-create-and-deploy/
