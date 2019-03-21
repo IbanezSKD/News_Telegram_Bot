@@ -6,7 +6,7 @@ class BotHandler:
         self.token = token
         self.api_url = "https://api.telegram.org/bot{}/".format(token)
 
-    def send_message(self, chat_id, text):
+    def send_message(self, chat_id, text): # Отправка (text) - текста (chat_id) - Юзеру
         params = {'chat_id': chat_id, 'text': text}
         method = 'sendMessage'
         resp = requests.post(self.api_url + method, params)
