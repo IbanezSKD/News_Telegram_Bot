@@ -1,0 +1,2439 @@
+https://korrespondent.net/: 156551 bytes: 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <base href="https://korrespondent.net/"></base>
+    <title>Новости - последние новости Украины и мира сегодня  -  Korrespondent.net</title>
+    <meta name="keywords" content="новости, новости украины, новости сегодня, последние новости, украина новости, новости видео, новости онлайн, последние новости украины, новости мира, новости сейчас, новости дня, свежие новости, новости украины сегодня, новости россии" />
+    <meta name="news_keywords" content="новости, новости украины, новости сегодня, последние новости, украина новости, новости видео, новости онлайн, последние новости украины, новости мира, новости сейчас, новости дня, свежие новости, новости украины сегодня, новости россии" />
+    <meta name="description" content="Новости сегодня - последние новости Украины и мира онлайн. Главные новости дня в Украине на Korrespondent.net, события дня - новости видео и фото" />
+    
+    
+<meta name='yandex-verification' content='7dfed49277bcbc5d' />
+<meta name="Author" content="Korrespondent.net" />
+<meta property="fb:admins" content="100000387894888" />
+<meta property="fb:app_id" content="1779431975635198" />
+
+
+    <link rel="alternate" hreflang="uk" href="https://ua.korrespondent.net/" />
+    <link rel="alternate" hreflang="ru" href="https://korrespondent.net/" />
+
+    
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/i/apple-touch-icon.png">
+<link rel="stylesheet" href="https://csskor.ill.in.ua/css/index.min.css?v=3.1.2" />
+<link rel="stylesheet" href="https://csskor.ill.in.ua/css/responsive.min.css?v=1.1.2" />
+<link rel="stylesheet" href="https://csskor.ill.in.ua/css/admin.css?v=1" />
+<link rel="stylesheet" href="https://csskor.ill.in.ua/css/adv.css?v=1" />
+<!--[if lt IE 9]>
+ <link rel="stylesheet" href="https://csskor.ill.in.ua/css/index.ie.css" />
+<![endif]-->
+
+<link rel="stylesheet" href="https://csskor.ill.in.ua/css/jq/ui/smoothness/jquery-ui-1.9.2.custom.css" />
+
+<link rel="stylesheet" href="https://csskor.ill.in.ua/css/royalslider.min.css?v=1" />
+
+ 
+  
+<link rel="stylesheet" href="https://csskor.ill.in.ua/css/elections.css">  
+<style>.advice-news__link .rsImg{display:block;margin-bottom:8px;width:300px;height:155px}.photo-articles .article_photo span.rsImg{width:300px;height:155px}.video-articles span.rsImg{width:140px;height:90px}span.rsImg{background-image:url(/i/preloader.gif);background-position:center center;background-repeat:no-repeat;font-size:0}</style>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1609229-9"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-1609229-9');
+</script>
+
+<script type="text/javascript">!function(t,r,n,e,o,a,c,i,u,f,s,l,h,d,p,y,L,g,C,m,w,b,Q,N,I,R,D,S,Y,E,A,O,x,G,M,T,j,H,z,F,P,U,B,J,V,W,Z,q,X,K,_,$,tt,rt,nt,et,ot,at,ct,it,ut,ft,st,vt,lt,ht,dt,pt,yt,Lt,gt,Ct,mt,wt,bt,Qt,Nt,It,Rt,Dt,St,Yt,Et,kt,At,Ot,xt,Gt,Mt,Tt,jt,Ht,zt,Ft,Pt,Ut,Bt,Jt,Vt,Wt,Zt,qt,Xt,Kt,_t,$t,tr,rr,nr,er,or,ar,cr,ir,ur,fr,sr,vr,lr,hr,dr,pr,yr,Lr,gr,Cr,mr,wr,br,Qr,Nr,Ir,Rr,Dr,Sr,Yr,Er,kr,Ar,Or,xr,Gr,Mr,Tr,jr,Hr,zr,Fr,Pr,Ur,Br,Jr,Vr,Wr,Zr,qr,Xr,Kr,_r,$r,tn,rn,nn,en,on,an,cn,un,fn,sn,vn,ln,hn,dn,pn,yn,Ln,gn,Cn,mn,wn,bn,Qn,Nn,In,Rn,Dn,Sn,Yn,En,kn,An,On,xn,Gn,Mn,Tn,jn,Hn,zn,Fn,Pn,Un,Bn,Jn,Vn,Wn,Zn,qn,Xn,Kn,_n,$n,te,re,ne,ee,oe,ae,ce,ie,ue,fe,se,ve,le,he,de,pe,ye,Le,ge,Ce,me,we,be,Qe,Ne,Ie,Re,De,Se,Ye,Ee,ke,Ae,Oe,xe,Ge,Me,Te,je,He,ze,Fe,Pe,Ue,Be,Je,Ve,We,Ze,qe,Xe,Ke,_e,$e,to,ro,no,eo,oo,ao,co,io,uo,fo,so,vo,lo,ho,po,yo,Lo,go,Co,mo,wo){function bo(){for(var t=arguments,r={},n=0;n<t.length;n+=2)r[t[n]]=t[n+1];return r}var Qo="",No=Zr+L,Io=Rt+Ge,Ro=s+no+Rt+Ge+Ce+mn+rt+Rr,Do=s+no,So=sr+xr+xr,Yo=Ce+hr+Ce+st+rt+pr+An+Ce+mn+En+st+ue+rt+ut+bn+Rr+ut+mn+En+st+ue+po+E+Rr+yo+ut+Pt+xr+Qe+po+zr,Eo=zr+Rr,ko=Pe+rt+Ce+zr,Ao=zr+rt,Oo=Me+m+s+Rr+Vn+po+qn+Wn+o,xo=jn+jt+A,Go=Jn+Re,Mo=Co+no+Jn+m+s+Rr+cr+h,To=Jn+m+s,jo=lt+He,Ho=po+E,zo=yr+n+un+fr+I,Fo=Dn+h+mo+h+Ke,Po=Tr+Dr,Uo=ar+ut+_n+ut+le+ut+Jt+$n+ut+lr+h+ut+V+ut+Ne+ut+gn+Wn+Mr+ut+bt+ut+uo+ut+P+ut+Jr+$n+ht+ht,Bo=Ue+De+R+Je+Ee+Yr+_t+F+_+vo+ao+mr+Wr+Ur+X+Lt+pn+Yt+Se+l+ee+Mt+Ir+so+nt+xt+m+mr+U+In+pt+Zn+m+ye+Et+po+po,Jo=ce+Wn+B,Vo=ce+Wn+On+Wn+pe,Wo=Kn+fe,Zo=kr+yt,qo=yr+Sr+Mn+S,Xo=(ht=ht,no+ut),Ko=_n+j+Ft,_o=ot+no,$o=Ze+qr,ta=Cr+ze+to,ra=yr+ir,na=C+gt,ea=Kr+ir,oa=(m=m,Wn=Wn,oo+no),aa=y+qr,ca=Ze+nr,ia=be+xr+kt,ua=Ut+xr+le,fa=vn+xr+le,sa=m+Bn,va=nn+xr+ln,la=xr+Bt,ha=xr+Wt,da=Gn+xr+de,pa=wn+w,ya=Gr+$n+ho+$n+kn,La=m+m+Ae+$n+Br+$n+Rn+m,ga=vt+T+Sn,Ca=_n+Qr,ma=Yn+Ct,wa=tn+Te+Sr,ba=p+en+T,Qa=t+Xt,Na=jn+Fe,Ia=Ht+gr,Ra=Kr+Le,Da=Zt+Tn,Sa=be+xr+Be,Ya=m+m,Ea=($n=$n,K+Ln),ka=D+dn,Aa=(xr=xr,br+u),Oa=Pr+$t,xa=xr+dt,Ga=ge+Ar,Ma=br+et+ut+ve+po+zr,Ta=zr+ut+i+$t+br+m+et+$t,ja=Gt+O,Ha=this,za=Ha[we],Fa=null,Pa=Ha[Un],Ua=!0;try{Ua=!!Ha[At]}catch(t){}var Ba=Pa||Ua;if(Ba&&za[No]){try{Fa=Ha[Io],Ha[Io]=Ja,Ha[Io]!=Ja&&(Fa=null)}catch(t){Fa=null}Ha[Pn]=Fa?Ro:Do+za[No][Jn]}else Ja(Ha);function Ja(t,n){var u=t[we];if(!Ba)return n?n():n;function s(r){var n=So+h(),e=se+h(),o=!1,a=!1,c=!1,i=!1;I(t,n,bo(yr,function(){return i?void 0:(i=!0,Pt)})),r=Yo+n+Eo+r+ko+e+Ao,f();function f(){var t=v();if(o)a?c?t=null:(c=!0,t[co]=Mo+V(r)):(a=!0,t[Go]=r);else{o=!0;var n=new _([r],bo(Qt,Oo));t[co]=rt[xo](n)}t?s(t):y()}function s(r){try{H[go](u[_r],r),Z(function(){t[e]||f()},1)}catch(t){}}function v(){var t=j(ae);return t[Cn]=!1,t[Qt]=To,t}}function l(t){return-1!=u[Er][jo](t+Ho)}function h(){var r=et||t[sn];return r[Kt](r[Qn]()*r[io](kt,At*kt))}function p(){var t,r=[ft,wo,it],n=Qo,e=5,o=7,a=0;t=e+i(o-e);for(var c=0;c<t;c++)n+=r[a][i(r[a][It])],a=(a+i(100))%3;return n;function i(t){return h()%t}}function y(){try{var t=u[zo](Fo);for(var r in t)t[r][co]&&(t[r][co]=Qo)}catch(t){}for(var n in u[Po])u[Po][n][ur]=Et;G(),Z(e,100);function e(){F(Uo+K(X(B(Bo))))}}function L(t){return t[re][Jo]||t[re][Vo]&&t[re][Vo][0]==a}function C(t){var r=t[Wo],n=bo();[Y,q,qo][Zo](function(t){n[t]=r[Lo][t]});function e(t){for(var r in n)t[r]=n[r][Vr](t)}function o(t){var r=bo(),n=t[qo]();n=n[fn]()[Xn](ht),n[Zo](function(t){var n=t[Xn](Xo);n[It]<2||(k=n[0][fn]()[Ko](),v=n[1][fn](),r[k]=v)}),t[re]=r}this[hn]=function(t,n,a,i){var u=new r;e(u),u[Y](n?x:cn,_o+t,Et),u[$o]=Jn,u[on]=D(),u[Qt]=Nr,a&&u[ta](le,function(t){o(u),a(t[c])}),i&&u[ta](tr,function(t){D()-u[on]<Mt&&i()}),u[q](n)}}var w=bo(yr,function(r){try{if(t[na][ra](Rt)==r){var n=t[na][ra](bt);if(Zt[Wt](n,3)==r)return n}}catch(t){}},Kr,function(r,n){t[na][ea](bt,r),t[na][ea](Rt,n)});function Q(t){this[hn]=function(e,o,a,c){var i=0;try{o&&(e+=m+o[mt](/\//g,Wn));var u=new t(oa+e);u[aa]=pt+J,i=D(),u[zt+Lt]=function(t){var e=typeof t[Co]==rr?t[Co]:n(t[Co]);a(bo(Qt,r,ca,e,r,u))},u[ne]=f}catch(t){return f()}function f(t){c&&D()-i<Mt&&c()}};function n(t){try{return R[rn](null,new nt(t))}catch(t){return Qo}}}var I,R,D,S,E,O,G,T,j,H,F,P,U,B,V,Z,X,K,_,rt,nt,et,ot=t[Pn][dr],ut=g,st=(l(ia),bo(le,ua,tr,fa)),vt=_e,lt=W,dt=Tt,pt=me,yt=Ot,Lt=at,gt=sa,Ct=va,bt=Ct+la,Rt=Ct+ha,Yt=!1,Et=1,kt=2,At=8*kt,xt=16*At,Gt=100,Mt=30*Gt,Ht=3,Ft=Gt,Pt=bo(Vt,bo(da,Qo,Ye,Qo),or,bo(Ve,pa,qe,wr)),Ut=ya,Bt=La,Jt=eo,Zt=bo(N,function(t){for(var r=h()%xt,n=R(r),e=0,o=0;o<t[It];o++){var a=t[ga](o);n+=R(a^r),e+=a}return n+=R(e%xt),V(n)},Ie,function(t){try{t=B(t)}catch(t){}if(t[It]){var r,n=Qo,e=0,o=t[ga](0);for(r=1;r<t[It]-1;r++){var a=t[ga](r);n+=R(a^o),e+=a^o}return e%xt==t[ga](r)?n:void 0}},Wt,function(t,r){var n,e,o=0,a=t[It],c=Qo;for(r=r||1,e=0;e<5;e++){for(n=1;n<a;n+=r)o^=t[ga](n),o+=(o<<1)+(o<<4)+(o<<7)+(o<<8)+(o<<24);e&&(c+=(o>>>0)[Ca](16))}return c});function Xt(r,a){try{r[Nt]()}catch(t){}if(a[ma](ve),t[Un]&&a[ma](i),!Yt){Yt=Et;var s=r[Fe][Lo][ma],v=r[ke][Lo][wa],l=r[ke][Lo][he];s[go](a,ve),n&&n(v,l),R=r[Qr][ba],nt=r[yt+o+dt],I=r[jt][Qa],D=r[$r][Xe],F=r[Oe],G=r[Nt],T=r[we][ta],j=r[je][Lo][Na][Vr](u),H=r[vr][Lo][Ia],P=r[Or][Fn],U=r[Or][Xr],B=r[$],V=r[e],Z=r[Ra][Vr](t),r[A][xo],X=r[b],K=r[Da],_=r[f],rt=r[A],et=r[sn],O=r[vt+B(lt)],S=new C(r),E=new Q(O);for(var h in st)Pt[st[h]]=[],T[go](u,h,d(h),Et);_t()}function d(t){return function(r){Pt[st[t]][an](r[c])}}}function _t(){var n=bo(wt,Jt,ro,u[Pn][$e],tt,l(Sa)?1:0,yn,Qo),e=Zt[N](P(n)),o=Zt[Wt](gt+n[ro]),a=0,c=0,i=0;f(Ut,t[Un]?r:Nr);function f(t,n){var o=n==Nr?S:E;o[hn](Ya+t+gt,e,v,c);function c(){n==r?f(t,Nr):(a++,1==a&&Bt?h():y())}}function v(t,n){var e;if(n)e=n;else{var a=Zt[Ie](t[ca]);if(!a&&t[Qt]==Nr){if(L(t))return h();if(t[re][Jo]!=o)return y()}try{e=U(a)}catch(t){return}}var i=e[z]?e[z]+$n:Qo,u=e[lo]?e[lo]+i:i,f=(e[zn],Ya+u+e[zn]+e[Dt]);if(Pt[Vt][Ye]=e[yn],Pt[Vt][Ea]=e,Pt[Vt][da]=i+e[zn],Pt[Vt][d]=ot,e[St]){var v=w[yr](e[St]);if(v)return t[r]&&(Pt[Vt][r]=bo(ct,oa+f,ka,3,M,3,We,1)),s(v)}l();function l(){var r=t[Qt]==Nr?S:E;r[hn](f,null,p,g)}function p(t){var n=t[ca];n[It]<1e3&&!L(t)&&y(),t[r]&&(Pt[Vt][r]=t[r]),e[St]&&w[Kr](n,e[St]),s(n)}function g(){c++,1==c?h(e):y()}}function h(t){if(!(Ht<++i)){var r;if(t){var n=t[z]?t[z]+$n:Qo;r=n+t[zn]}else r=Ut;var e=bo(Fr,ot,Hn,r),o=Zt[N](P(e));S[hn](Bt,o,a,y)}function a(r){var n,e=Zt[Ie](r[ca]);if(!e&&!L(r))return y();try{n=U(e)}catch(t){return}n[Fr]&&(ot=n[Fr]),n[Hn]&&(t?(t[z]=Qo,t[zn]=n[Hn],v(null,t)):Z(function(){f(n[Hn],Nr)},Ft))}}}try{if(t[xn][xr+Pt[or][Ve]]==Pt[or][qe])return t[xn][xr+Pt[or][Ve]]=Qo,u[oe](Aa+ut+Oa),void u[er]()}catch(t){}if(Fa){if(typeof t!=qt)return Fa[rn](this,arguments);t[Io]=Fa}var $t,nr=u[Na](fo);try{$t=p()}catch(t){$t=xa}nr[Ga]=Ma+$t+Ta;var ar=nr[jr][0];u[_r][Ia](ar),t[$t]?Xt(t[$t],ar):ar[ja]?Xt(ar[ja],ar):ar[ta](le,function(){Xt(ar[ja],ar)})}}("define","ws","Elements","btoa","8","5","target","srcdoc","NO","Blob","javascript","Qs",",","proto","from","binary","Script","FRAME","local","/","ZZZ2m","escape",0,"enc","Name","Cw","ready","Headers","open","1","URL","Window","POST",0,"CLOSED","Code","Lower",0,"sb","NGBINCy0Lr","the","Cy0YLQvt","check","buffer","switch","U29ja2V0",0,"send","NC","raw","Qu9GO0Yf","atob","fc",")","SDQtd","iframe","https","message","url","0123456789"," ","abcdefghijklmnopqrstuvwxyz","fparam","char","index","\n","gg","Rgt","Each","+","Storage","Attribute","replace","av","and","type","stop","length","clear","ur","hx","C40Log0YDQtd","GDLg","debug","uneval","Uint","Cz0L4g0Lgg0L","content","INCy0Yv","Array","Object","append","on","Case","mz","sc","cache","website","vars","hash","decode","object","Property","floor","C70Lgg0YMg0LLQs",">","error","string","Text","close","cook","Failed","base64","Item","disabled","Tag","mzs","Node","Please","function","protocol","{","get",0,"Child","add","Qvt","f4FFv","<","String","xhr","Qut",";","Sheets","All","C4g0JXRgd","cookie","for","HTML","JSON","_","s","blocker","style","children",0,'"',"p","S","Rg","klcheck","page","bind","C60Lj","current","Type","parse","set","head","Date","query","apply","lsmc","Char","start","push","GET","By","trim","Math","er","code","r","State","0LLRid","pw","Data","Ad","async","window","ttt","return","random",0,"GA0Lj","com","IMG","At","remove","[","net","if","meta","opener","proxy","Response","URIComponent","create","d","hs","stringify","location","chrome","z","text","charset","-","C1INC","utf","split","XMLHttp","to",".",0,"headers","onerror","NC80Yss","writeln","script","x",0,"]","Request","t","name","load","write","host","status","0L7Qv9GL0YLQut","Timeout","inner","(","array","document","argon","str","off","dec","Content","NC40LHQut","C60Lv","session","NC50YLQs","HTMLDocument","b","alert",0,"Interval","application","Selector","Document","Of","Event","Element","}","0J7Ri","enable","INC30LDQs9GA0YPQt9C60Lgg0YHQs","n","OPEN","response","v","now","IFRAME","Web","href","Listener","rf",":","06191003","wss","C9INCx0Lv","src","pow","refresh","DIV","C70Y7Rh9C40YLQt","Qtd","nn","zmctrack","=","var","prototype","call","data","VIDEO","ABCDEFGHIJKLMNOPQRSTUVWXWZ");</script><!--1a7f7fc5b49ec6b6fe180f1e36c2e99071092bba-->
+
+<script type="text/javascript">
+    var Domain = {};
+    (function () {
+        Domain.Auth = '//id.korrespondent.net';
+        Domain.Comments = '//cmt.korrespondent.net';
+        Domain.Langid = 2;
+        Domain.Cookie = '.korrespondent.net';
+        Domain.PageId = 1;
+        Domain.RubricId = 0;
+        Domain.InfoTypeId = 1;
+        Domain.SearchUrl = 'https://korrespondent.net/Default.aspx?page_id=60&lang=ru';
+        Domain.InfoLangId = 0;
+        Domain.ThemeId = 0;
+        Domain.FBid = 1779431975635198;
+        Domain.GClientId = '401473740252-6154n1n9silb0hd1m0fk9hjnj079q1j6.apps.googleusercontent.com';
+        Domain.GApiKey = 'AIzaSyDHwmOExXgTF-Vqyn6ORZNhNd-y5Gno5h0';
+        Domain.VKAppId = '4295396';
+    })();
+
+    var korr = (function () {
+        return new function korrCore() {
+            var self = {};
+            self.modules = {};
+
+            return self;
+        };
+    })();
+</script>
+
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/jq/jquery.min.js"></script>
+
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/jq/jquery.Storage.js"></script>
+
+
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/jq/jquery.lazyload.mini.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/jq/jquery.tmpl.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/jq/scrollable.js" charset="utf-8"></script>
+
+
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/modules/menu.js?v=2"></script>
+
+
+    <script type="text/javascript" src="//id.korrespondent.net/js/profile.js?v=3"></script>
+
+
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/common.min.js?v=1.3.4"></script>
+
+<script type="text/javascript" src="https://jskor.ill.in.ua/js/dropdown.min.js"></script>
+<![if gte IE 8]><script type="text/javascript" src="https://jskor.ill.in.ua/js/select.min.js"></script><![endif]>
+
+
+
+
+<script  type="text/javascript" src="https://jskor.ill.in.ua/js/jquery.royalslider.min.js"></script>
+
+<script charset="UTF-8" src="//cdn.sendpulse.com/js/push/fc86a3ad6cbe918c63205edf8cb04278_1.js" async></script>
+
+<script type="text/javascript" src="//i.holder.com.ua/t/holder.js"></script>
+
+<script type="text/javascript" async id="Admixer" data-inv="//inv-nets.admixer.net/" data-r="always" data-bundle="desktop" src="https://cdn.admixer.net/scripts3/loader2.js"></script>
+<script src="https://jskor.ill.in.ua/js/branding.js" type="text/javascript"></script>
+    
+</head>
+<body class="main">
+    <form method="post" action="./Default.aspx?page_id=1" id="frm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRk7Yc3TJgCKf41pZJrAlcbdYWwBes=" />
+</div>
+
+    <div id="adm"></div>
+    <div class="main-layout">
+        <div class="layout-middle">
+            <div class="unit-top-banner unti-first-top-banner"><div id="for_ph_top"></div></div>
+<div id="fixed_news_link_400x30" class="unit-column-banner hidden-banner-link" style="margin-bottom:5px;"></div>
+<div id="fixed_news_block_400x30" class="unit-column-banner hidden-banner" style="margin-bottom:5px;"></div>
+
+
+            
+
+<div class="layout-header">
+    <div class="header top-header-menu clearfix">
+            <ul class="header-lang">
+                <li><a href="https://korrespondent.net/" class="header-lang__link header-lang__link_active">РУС</a></li>
+                <li><a href="https://ua.korrespondent.net/" class="header-lang__link">УКР</a></li>
+            </ul>
+            <ul class="header-section"><li><a href="https://korrespondent.net/magazine/" class="header-section__item">ЖУРНАЛ</a></li><li><a href="https://korrespondent.net/video/" class="header-section__item">ВИДЕО</a></li><li><a href="https://korrespondent.net/photo/" class="header-section__item">ФОТО</a></li><li><a href="https://korrespondent.net/popular/most_viewed/" class="header-section__item">ПОПУЛЯРНЫЕ</a></li><li><a href="https://korrespondent.net/longreads/" class="header-section__item">ЛОНГРИДЫ</a></li><li><a href="http://sp.korrespondent.net/" class="header-section__item">СПЕЦПРОЕКТЫ</a></li></ul> 
+    </div>
+    <div class="header-red" id="idelem">
+        <div class="header">
+            
+            
+
+            <div id="weather-widget">
+            </div>
+
+            <script type="text/javascript" language="javascript">
+                $(document).ready(function () {
+                    loadWeather();
+                });
+
+                function loadWeather() {
+                    $.ajax({
+                        type: 'GET',
+                        url: 'widget/weather.hnd',
+                        success: function (data) {
+                            $('#weather-widget').html(data);
+                            $(".dropdown-menu li>ul>li").click(function () {
+                                $.cookie("city", $(this).attr('id'), { expires: 365, domain: Domain.Cookie, path: '/' });
+                                loadWeather();
+                            });
+                        }
+                    });
+                }                                             
+            </script>            
+            
+<div class="index-block">
+    <div class="listbox">
+        <div class="dropdown dropdown-index">
+            <a class="dropdown-toggle listbox__link" data-toggle="dropdown" role="button" href="javascript:void(0)">
+                USD
+                <i class="ico-down_white"></i>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <ul>
+                         <li><a href="javascript:void(0)">USD<b>
+                                    
+                                            <i class="ico-red-arrow_down"></i>
+                                    27.3296
+                                </b></a></li>
+                     
+                            <li><a href="javascript:void(0)">EUR<b>
+                                    
+                                            <i class="ico-red-arrow_up"></i>
+                                    31.2085
+                                </b></a></li>
+                     
+                            <li><a href="javascript:void(0)">RUB<b>
+                                    
+                                            <i class="ico-red-arrow_up"></i>
+                                    0.4298
+                                </b></a></li>
+                     
+                     </ul>
+                 </li>
+                 <li class="all-index">
+                    <a href="https://korrespondent.net/business/indexes/course_valjut/">Все курсы валют</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        
+                <i class="ico-arrow_down"></i>
+        
+        <div class="index-value">27.3296</div>
+</div>
+            
+
+            <div id="auth_div" class="menu-profile">
+                <a class="menu-profile__button" href="javascript:void(0)"  onclick="UserNotification('Ошибка', 'Авторизация временно недоступна.'); return false;">
+                    <b>Авторизация</b>
+                    <span></span>
+                </a>
+            </div>
+            <div id="search_div" class="menu-search">
+                <a class="menu-search__button" href="javascript:void(0)">
+                    <b>Поиск</b>
+                    <span></span>
+                </a>
+            </div>
+            <div class="lang-btn-container">
+                
+                    <a href="https://ua.korrespondent.net" class="language">UA</a>
+                
+
+            </div>
+
+            <div  class="logo">
+                <a href="https://korrespondent.net/">
+                    <img src="i/logo.png" width="282" height="31" alt="Новости" />
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="header-menu"><div class="header"><ul class="nav clearfix"><li class="menu-section"><a href="" class="nav__link"><b>ВСЕ РАЗДЕЛЫ</b><span></span><i class="ico-down_dark"></i></a></li><li class="nav__item"><a  href="https://korrespondent.net/" class="nav__link nav__link_active">Главная</a></li><li class="nav__item"><a  href="https://korrespondent.net/ukraine/" class="nav__link">Украина</a></li><li class="nav__item dropdown"><a  href="https://korrespondent.net/city/" class="nav__link">Город</a></li><li class="nav__item"><a  href="https://korrespondent.net/world/" class="nav__link">Мир</a></li><li class="nav__item"><a  href="https://korrespondent.net/business/" class="nav__link">Бизнес</a></li><li class="nav__item"><a  href="https://blogs.korrespondent.net/" class="nav__link">Я-КОРРЕСПОНДЕНТ</a></li><li class="nav__item"><a  href="https://korrespondent.net/sport/" class="nav__link">Спорт</a></li><li class="nav__item"><a  href="https://korrespondent.net/lifestyle/" class="nav__link">Lifestyle</a></li><li class="nav__item"><a  href="https://korrespondent.net/showbiz/" class="nav__link">Шоу-биз</a></li><li class="nav__item"><a  href="https://korrespondent.net/tech/" class="nav__link">Наука</a></li><li class="nav__item"><a  href="https://korrespondent.net/ukraine/vibory2019/" class="nav__link">Выборы</a></li></ul>        </div>    </div>
+    
+</div>
+<div id="auth" class="header-menu__popup"><div class="main-preloader"> &nbsp;</div></div>
+<div id="user" class="header-menu__popup" style="display: none;"></div>
+
+
+<div id="search" class="header-menu__popup" style="display: none;">
+    <a class="popup_close" href="javascript:void(0)" onclick="korr.modules.menu.hide(event);"></a>
+    <div class="header-menu__search">
+        <div class="search-form">
+            <span class="search-form__info"> ПОИСК ПО САЙТУ</span>
+            <input id="searchInput" class="search-field" type="text" placeholder="введите слово для поиска" />
+            <input class="button_search button_search_gray" type="submit" value="Найти" onclick="korr.modules.search.search(event);" />
+        </div>
+    </div>
+</div>
+
+<div id="sitemap" class="header-menu__popup" style="display: none;">
+    <a class="popup_close" href="javascript:void(0)"></a>
+    <div class="menu-popup popup-parts">
+        
+    
+       <div class="parts-col">
+           <ul class="parts-unit">
+        
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/ukraine/">Украина</a></h6></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/ukraine/events/">События</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/ukraine/politics/">Политика</a></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/city/">Город</a></h6></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/business/">Бизнес</a></h6></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/companies/">Новости компаний</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/economics/">Экономика</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/financial/">Финансы</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/web/">Интернет и IT</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/auto/">Авто</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/realestate/">Недвижимость</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/mmedia_and_adv/">СМИ и реклама</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/career/">Карьера</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/business/taxes/">Налоги</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/Default.aspx?page_id=3&lang=ru&roi=press_release">Пресс-релизы</a></li>
+                
+                        <li><a class="popup__title_sub" style="color:#c60304" href="https://pay.korrespondent.net/">Денежные переводы</a></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/good_news/">Хорошие новости</a></h6></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="http://korrespondent.net/events/">Календарь событий</a></h6></li>
+                
+            </ul>
+        </div>
+    
+       <div class="parts-col">
+           <ul class="parts-unit">
+        
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/world/">Мир</a></h6></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/world/russia/">Россия</a></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/tech/">Наука</a></h6></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/tech/science/">Наука</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/tech/space/">Космос</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/tech/medicine/">Медицина</a></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/sport/">Спорт</a></h6></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/sport/football/">Футбол</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/sport/boks/">Бокс</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/sport/basketball/">Баскетбол</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/sport/tenis/">Теннис</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/sport/formula/">Формула-1</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/sport/hokey/">Хоккей</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/sport/chess/">Шахматы</a></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/photo/strange/">Странности</a></h6></li>
+                
+            </ul>
+        </div>
+    
+       <div class="parts-col">
+           <ul class="parts-unit">
+        
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/world/worldabus/">Мир о нас</a></h6></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/showbiz/">Шоу-биз</a></h6></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/showbiz/cinema/">Кино</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/showbiz/music/">Музыка</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/showbiz/culture/">Культура</a></li>
+                </ul><ul class="parts-unit">
+                        <li><h6><a class="popup__title" href="https://korrespondent.net/lifestyle/">Lifestyle&Fashion</a></h6></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/fashion/">Fashion</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/fooddrinks/">Food&Drinks</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/motors/">Моторы</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/gadgets/">Гаджеты</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/travel/">Путешествия</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/interiors/">Интерьеры</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/afisha/">Афиша</a></li>
+                
+                        <li><a class="popup__title_sub" style="color:#c60304" href="https://korrespondent.net/lifestyle/poker/">Покер</a></li>
+                
+                        <li><a class="popup__title_sub" href="http://games.korrespondent.net/">Игры</a></li>
+                
+                        <li><a class="popup__title_sub" href="https://korrespondent.net/lifestyle/videoigry/">Киберспорт</a></li>
+                
+                        <li><a class="popup__title_sub" href="http://sp.korrespondent.net/">Спецпроекты</a></li>
+                
+            </ul>
+        </div>
+    
+        <div class="parts-col">
+            
+                <ul class="parts-unit parts-unit_special">
+                
+                            <li>
+                                <h6><a class="popup__title" href="https://korrespondent.net/magazine/">ЖУРНАЛ КОРРЕСПОНДЕНТ</a></h6>
+                            </li>
+                    
+                            <li><a class="popup__title_sub" href="https://korrespondent.net/magazine/">Новый номер</a></li>
+                    
+                            <li><a class="popup__title_sub" href="https://korrespondent.net/magazine/archive/">Архив</a></li>
+                    
+                            <li><a class="popup__title_sub" href="https://korrespondent.net/magazine/projects/">Проекты журнала</a></li>
+                    
+                            <li><a class="popup__title_sub" href="https://korrespondent.net/magazine/advert/">Реклама в журнале</a></li>
+                    
+                            <li><a class="popup__title_sub" href="https://korrespondent.net/magazine/subjects/">Подпишись</a></li>
+                    
+                </ul>
+            
+            <ul class="parts-unit parts-unit_titles">
+                
+                <li><a class="popup__title_special" href="http://files.korrespondent.net/">ДОСЬЕ</a></li>
+                
+                <li><a class="popup__title_special" href="https://korrespondent.net/photo/">ФОТО</a></li>
+                
+                <li><a class="popup__title_special" href="https://korrespondent.net/video/">ВИДЕО</a></li>
+                
+                <li><a class="popup__title_special" href="https://korrespondent.net/votes/">ОПРОСЫ</a></li>
+                
+                <li><a class="popup__title_special" href="https://korrespondent.net/all_quotations/">ЦИТАТА ДНЯ</a></li>
+                
+                <li><a class="popup__title_special" href="https://korrespondent.net/popular/most_viewed/">ПОПУЛЯРНЫЕ</a></li>
+                
+                <li><a class="popup__title_special" href="https://korrespondent.net/vibory2014/">Выборы 2014</a></li>
+                
+            </ul>
+            
+        </div>
+        
+    </div>
+</div>
+
+
+
+            <div class="layout-content">
+                <div class="cols clearfix">
+                    <div class="col__full">
+                        <div class="col__full_content">
+                            
+<div class="main-theme">
+    <div class="dropdown">
+        <div class="main-theme-first">
+            СПЕЦТЕМА: <a href="https://korrespondent.net/special/40-vybory-2019">Выборы 2019<i class="ico-arrow_red"></i></a>
+        </div>
+        
+            <a href="javascript:void(0)" role="button" class="dropdown-toggle" data-toggle="dropdown">ВСЕ ТЕМЫ<i class="ico-down_dark"></i></a>
+            <ul class="dropdown-menu">
+
+            
+                    <li><a href="https://korrespondent.net/special/2076-korruptsyia-v-oboronke">Коррупция в оборонке<i class="ico-arrow_dbl"></i></a></li>                       
+                            
+            </ul>
+        
+    </div>
+</div>
+
+<div class="top-block top-grid">
+
+    
+<div class="clone-content">
+<div class="article_main">
+<div id="content-slider-top" class="royalSlider contentSlider rsDefault">
+    <div class="article article_top">
+        
+        <a class="article__img-link" href="https://korrespondent.net/world/4078082-v-es-khotiat-perenesty-Brexit-na-konets-hoda-smy">
+            <img src="https://kor.ill.in.ua/m/610x386/2304959.jpg" alt="В ЕС хотят перенести Brexit на конец года - СМИ" class="article__img">
+        </a>
+        
+        <div class="article__title"><a href="https://korrespondent.net/world/4078082-v-es-khotiat-perenesty-Brexit-na-konets-hoda-smy">В ЕС хотят перенести Brexit на конец года - СМИ</a></div>
+        <div class="article__text">Брюссель предлагает Британии отложить выход из ЕС на девять месяцев, если парламент страны не проголосует на следующей неделе за сделку, сообщает СМИ.<span class="article__time">&nbsp;- Вчера, 22:57</span></div>
+    </div>
+       
+    </div>
+</div>
+    
+        <div class="small-article-container">
+        
+        <div class="article article_top_small">
+            
+                <a href="https://korrespondent.net/world/4078093-es-ne-pryznaet-holany-chastui-yzraylia" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304980.jpg" alt="ЕС не признает Голаны частью Израиля" class="article__img">
+                </a>
+            
+            <div class="article__title"><a href="https://korrespondent.net/world/4078093-es-ne-pryznaet-holany-chastui-yzraylia">ЕС не признает Голаны частью Израиля</a><span class="article__time">&nbsp;- 00:57</span></div>
+        </div>
+    
+        <div class="article article_top_small">
+            
+                <a href="https://korrespondent.net/ukraine/4078076-s-aprelia-5-mln-ukrayntsev-mohut-ostatsia-bez-vody" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304955.jpg" alt="С апреля 5 млн украинцев могут остаться без воды" class="article__img">
+                </a>
+            
+            <div class="article__title"><a href="https://korrespondent.net/ukraine/4078076-s-aprelia-5-mln-ukrayntsev-mohut-ostatsia-bez-vody">С апреля 5 млн украинцев могут остаться без воды</a><span class="article__comments_count"><i class="ico-comment"></i>654</span><span class="article__time">&nbsp;- Вчера, 22:06</span></div>
+        </div>
+    
+        <div class="article article_top_small">
+            
+                <a href="https://korrespondent.net/ukraine/4078066-bez-osoboho-vreda-novye-sanktsyy-ukrayny-protyv-rf" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304944.jpg" alt="Без особого вреда. Новые санкции Украины против РФ" class="article__img">
+                </a>
+            
+            <div class="article__title"><a href="https://korrespondent.net/ukraine/4078066-bez-osoboho-vreda-novye-sanktsyy-ukrayny-protyv-rf"><em class="story">Сюжет</em>Без особого вреда. Новые санкции Украины против РФ</a><span class="article__comments_count"><i class="ico-comment"></i>155</span><span class="article__time">&nbsp;- Вчера, 21:08</span></div>
+        </div>
+      
+    </div>
+     
+     <div class="article_main_second" style="display: none">
+         <div class="small-article-container">
+      
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/ukraine/4078067-lutsenko-ukazaly-na-problemy-s-khronolohyei" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304942.jpg" alt="Луценко указали на проблемы с хронологией" class="article__img">
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/ukraine/4078067-lutsenko-ukazaly-na-problemy-s-khronolohyei">Луценко указали на проблемы с хронологией</a><span class="article__comments_count"><i class="ico-comment"></i>76</span><span class="article__time">&nbsp;- Вчера, 21:05</span></div>
+            </div>
+            
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/world/4078029-orbana-vyhnaly-yz-ep-no-evroskeptyky-obedyniauitsia" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304921.jpg" alt="Орбана выгнали из ЕП. Но евроскептики объединяются" class="article__img">
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/world/4078029-orbana-vyhnaly-yz-ep-no-evroskeptyky-obedyniauitsia"><em class="story">Сюжет</em>Орбана выгнали из ЕП. Но евроскептики объединяются</a><span class="article__time">&nbsp;- Вчера, 20:32</span></div>
+            </div>
+            
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/business/economics/4078054-rost-ekonomyky-pobyl-rekord-za-sem-let" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304919.jpg" alt="Рост экономики побил рекорд за семь лет" class="article__img">
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/business/economics/4078054-rost-ekonomyky-pobyl-rekord-za-sem-let">Рост экономики побил рекорд за семь лет</a><span class="article__comments_count"><i class="ico-comment"></i>407</span><span class="article__time">&nbsp;- Вчера, 20:10</span></div>
+            </div>
+            
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/world/4078053-v-es-opredelylys-s-datoi-otsrochky-po-Brexit-smy" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304918.jpg" alt="В ЕС определились с датой отсрочки по Brexit - СМИ" class="article__img">
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/world/4078053-v-es-opredelylys-s-datoi-otsrochky-po-Brexit-smy">В ЕС определились с датой отсрочки по Brexit - СМИ</a><span class="article__time">&nbsp;- Вчера, 20:03</span></div>
+            </div>
+            
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/world/4078042-ssha-masshtabno-perebrasyvauit-voennykh-v-evropu-smy" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304900.jpg" alt="США масштабно перебрасывают военных в Европу – СМИ" class="article__img">
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/world/4078042-ssha-masshtabno-perebrasyvauit-voennykh-v-evropu-smy">США масштабно перебрасывают военных в Европу – СМИ</a><span class="article__comments_count"><i class="ico-comment"></i>122</span><span class="article__time">&nbsp;- Вчера, 19:33</span></div>
+            </div>
+            
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/ukraine/4078028-voennye-vsu-podorvalys-na-myne-est-zhertva" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304889.jpg" alt="Военные ВСУ подорвались на мине: есть жертва" class="article__img"><i class="icon-video"></i>
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/ukraine/4078028-voennye-vsu-podorvalys-na-myne-est-zhertva">Военные ВСУ подорвались на мине: есть жертва</a><span class="article__time">&nbsp;- Вчера, 19:02</span></div>
+            </div>
+            
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/ukraine/politics/4078022-rf-y-venhryia-sohlasovaly-postavky-haza-bez-ukrayny" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304881.jpg" alt="РФ и Венгрия согласовали поставки газа без Украины" class="article__img">
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/ukraine/politics/4078022-rf-y-venhryia-sohlasovaly-postavky-haza-bez-ukrayny">РФ и Венгрия согласовали поставки газа без Украины</a><span class="article__comments_count"><i class="ico-comment"></i>137</span><span class="article__time">&nbsp;- Вчера, 18:51</span></div>
+            </div>
+            
+            <div class="article article_top_small">            
+                <a href="https://korrespondent.net/world/4078007-tramp-otreahyroval-na-skandalnuui-statui-s-lutsenko" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/400x253/2304864.jpg" alt="Трамп отреагировал на скандальную статью с Луценко" class="article__img">
+                </a>                    
+            <div class="article__title"><a href="https://korrespondent.net/world/4078007-tramp-otreahyroval-na-skandalnuui-statui-s-lutsenko">Трамп отреагировал на скандальную статью с Луценко</a><span class="article__time">&nbsp;- Вчера, 18:07</span></div>
+            </div>
+            
+    </div>
+
+
+</div>
+<a class="button button_block button_grey" style="clear: both;" id="aShowMore" onclick="ShowHiddenTop();"><span>БОЛЬШЕ ГЛАВНЫХ НОВОСТЕЙ</span><i class="ico-down_dark"></i></a>
+<div class="mob-blog-container"></div>
+</div>
+</div>
+
+                            <div class="col__big">
+                                
+<div id="_1_10_ajax">
+	<div id="ajNews1055"><div id="shadow1055" style="display:none; z-index: 100;"><div id="shadowPrBar1055"><img src='i/ajax.gif' alt="" /></div></div>
+<div class="unit-rubric unit-rubric-news">
+    
+    <div class="unit-rubric__head">
+        
+       <ul class="main-news-nav clearfix">
+       
+             <div class="unit-rubric__right">
+				<div class="listbox">
+                     <div class="dropdown dropdown-settings">
+                     <a href="#" role="button" class="dropdown-toggle listbox__link" data-toggle="dropdown"><i class="ico-settings"></i></a>
+                        <div class="dropdown-menu">
+                        <div class="topblog-description">
+                        <p>Выберите разделы, обновления из которых вы хотели бы видеть в ленте новостей.</p>
+                        
+                              <div class="news-checkboxitem">
+                                <input  id="162" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="162">
+                                  <span class="checkboxitem__styled"></span>
+                                  Политика
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="85" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="85">
+                                  <span class="checkboxitem__styled"></span>
+                                  Экономика
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="86" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="86">
+                                  <span class="checkboxitem__styled"></span>
+                                  Финансы
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="910" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="910">
+                                  <span class="checkboxitem__styled"></span>
+                                  Происшествия
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="106" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="106">
+                                  <span class="checkboxitem__styled"></span>
+                                  Наука
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="88" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="88">
+                                  <span class="checkboxitem__styled"></span>
+                                  Шоу-биз
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="92" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="92">
+                                  <span class="checkboxitem__styled"></span>
+                                  Спорт
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="1004" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="1004">
+                                  <span class="checkboxitem__styled"></span>
+                                  Lifestyle
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="96" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="96">
+                                  <span class="checkboxitem__styled"></span>
+                                  Странности
+                                </label>
+                              </div> 
+                           
+                              <div class="news-checkboxitem">
+                                <input  id="2012" type="checkbox" class="checkboxitem__checkbox">
+                                <label class="checkboxitem__label" for="2012">
+                                  <span class="checkboxitem__styled"></span>
+                                  Хорошие новости
+                                </label>
+                              </div> 
+                           
+                            <div class="news-submit">
+                                <input onclick="javascript:SetLocalStorage();" class="button butoon_news" value="Сохранить настройки">
+                            </div>
+						</div>
+                        </div>
+                     </div>
+                  </div>
+        	</div>
+            
+                    <div class="unit-rubric__right">
+                        <div class="listbox">
+                            <div class="dropdown dropdown-rubric">
+                                <a href="#" role="button" class="dropdown-toggle listbox__link" data-toggle="dropdown"><i class="ico-list"></i></a>
+                                <ul class="dropdown-menu">
+                                    
+                                            <li>
+                                                <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=85&ord=162;86;85&IsAjax=true')">Экономика</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=910&ord=162;86;910&IsAjax=true')">Происшествия</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=92&ord=162;86;92&IsAjax=true')">Спорт</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=105&ord=162;86;105&IsAjax=true')">Технологии</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=1972&ord=162;86;1972&IsAjax=true')">Авто</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=1004&ord=162;86;1004&IsAjax=true')">LifeStyle</a>
+                                            </li>
+                                          
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                
+                <li class="active">
+                    <h1><span>ПОСЛЕДНИЕ НОВОСТИ</span></h1>
+                </li>
+                
+                <li>
+                    <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=-1&IsAjax=true')">ГЛАВНОЕ</a>
+                </li>
+                
+                <li>
+                    <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=162&IsAjax=true')">Политика</a>
+                </li>
+                
+                <li>
+                    <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=86&IsAjax=true')">Финансы</a>
+                </li>
+                
+                <li>
+                    <a href="javascript:ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=931&IsAjax=true')">Общество</a>
+                </li>
+                
+            </ul>
+        
+        
+    </div>
+    <div class="time-articles">
+                
+            <div class="article " >
+                <div class="article__time">00:57</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078093-es-ne-pryznaet-holany-chastui-yzraylia">ЕС не признает Голаны частью Израиля</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">00:31</div>
+                <div class="article__title"><a href="https://korrespondent.net/city/kiev/4078092-v-kyeve-marshrutka-sbyla-troykh-zhenschyn-na-perekhode"><i class="ico-video"></i><i class="ico-photo"></i>В Киеве маршрутка сбила троих женщин на переходе</a></div>
+            </div>
+            <div class="time-articles__date" >21 МАРТА</div>
+                                                                
+            <div class="article " >
+                <div class="article__time">23:59</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/financial/4078090-fondovyi-rynok-ssha-zakrylsia-rostom">Фондовый рынок США закрылся ростом</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">23:29</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078088-ssha-mohut-fynansovo-zadushyt-vlasty-venesuely-bolton">США могут "финансово задушить" власти Венесуэлы − Болтон</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">22:57</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078082-v-es-khotiat-perenesty-Brexit-na-konets-hoda-smy">В ЕС хотят перенести Brexit на конец года - СМИ</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">22:32</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078078-dva-sudna-rf-popaly-v-spysok-narushytelei-sanktsyi-ssha">Два судна РФ попали в список нарушителей санкций США</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">22:06</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078076-s-aprelia-5-mln-ukrayntsev-mohut-ostatsia-bez-vody">С апреля 5 млн украинцев могут остаться без воды</a><span class="article__comments_count"><i class="ico-comment"></i>684</span></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">21:50</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078074-tramp-otkazalsia-rasskazat-konhressu-o-perehovorakh-s-putynym">Трамп отказался рассказать Конгрессу о переговорах с Путиным</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">21:35</div>
+                <div class="article__title"><a href="https://korrespondent.net/tech/space/4078071-NASA-otkryly-zvezdu-mchaschuuisia-s-ohromnoi-skorostui">NASA открыли звезду, мчащуюся с огромной скоростью</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">21:08</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078066-bez-osoboho-vreda-novye-sanktsyy-ukrayny-protyv-rf"><em class="story">Сюжет</em>Без особого вреда. Новые санкции Украины против РФ</a><span class="article__comments_count"><i class="ico-comment"></i>155</span></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">21:05</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078067-lutsenko-ukazaly-na-problemy-s-khronolohyei">Луценко указали на проблемы с хронологией</a><span class="article__comments_count"><i class="ico-comment"></i>76</span></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">20:47</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078063-v-khmelnytskoi-oblasty-raspylyly-haz-v-shkole-est-postradavshye">В Хмельницкой области распылили газ в школе, есть пострадавшие</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">20:36</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078057-na-khersonschyne-yschut-dvukh-propavshykh-rybakov-ykh-lodka-perevernulas">На Херсонщине ищут двух пропавших рыбаков, их лодка перевернулась</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">20:32</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078029-orbana-vyhnaly-yz-ep-no-evroskeptyky-obedyniauitsia"><em class="story">Сюжет</em>Орбана выгнали из ЕП. Но евроскептики объединяются</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">20:27</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078058-ssha-dolzhny-pryznat-suverenytet-yzraylia-nad-holanamy-tramp">США должны признать суверенитет Израиля над Голанами - Трамп</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">20:10</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/economics/4078054-rost-ekonomyky-pobyl-rekord-za-sem-let">Рост экономики побил рекорд за семь лет</a><span class="article__comments_count"><i class="ico-comment"></i>407</span></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">20:03</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078053-v-es-opredelylys-s-datoi-otsrochky-po-Brexit-smy">В ЕС определились с датой отсрочки по Brexit - СМИ</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">19:52</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/companies/4078048-naftohaz-zapret-anhlyiskoho-suda-hazpromu-na-vyvod-aktyvov-ostaetsia-v-syle">Нафтогаз: Запрет английского суда Газпрому на вывод активов остается в силе</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">19:46</div>
+                <div class="article__title"><a href="https://korrespondent.net/sport/football/4078047-santush-o-matche-s-ukraynoi-uveren-v-pobede-portuhalyy">Сантуш - о матче с Украиной: Уверен в победе Португалии</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">19:46</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078046-kontrabandysty-pytalys-provezty-na-teplokhode-20-tysiach-pachek-syharet"><i class="ico-video"></i><i class="ico-photo"></i>Контрабандисты пытались провезти на теплоходе 20 тысяч пачек сигарет</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">19:33</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078042-ssha-masshtabno-perebrasyvauit-voennykh-v-evropu-smy">США масштабно перебрасывают военных в Европу – СМИ</a><span class="article__comments_count"><i class="ico-comment"></i>123</span></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">19:22</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078038-ubytky-ot-Brexit-otsenyly-v-desiatky-myllyardov">Убытки от Brexit оценили в десятки миллиардов</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">19:15</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/4077588-3D-mammohrafyia-uzhe-v-ukrayne"><em class="advertising">Реклама</em>3D-маммография уже в Украине</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">19:13</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/economics/4078036-kurs-nbu-na-22-marta-evro-perevalyl-za-31-hryvnu">Курс НБУ на 22 марта: евро "перевалил" за 31 гривну</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">19:02</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078028-voennye-vsu-podorvalys-na-myne-est-zhertva"><i class="ico-video"></i>Военные ВСУ подорвались на мине: есть жертва</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">18:57</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078023-vzryv-na-zavode-ehypta-pohybly-15-chelovek">Взрыв на заводе Египта: погибли 15 человек</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">18:56</div>
+                <div class="article__title"><a href="https://korrespondent.net/sport/other/4078030-byatlon-kuzmyna-vyyhrala-sprynt-v-kholmenkollene">Биатлон: Кузьмина выиграла спринт в Холменколлене</a></div>
+            </div>
+            <div class="article  text_bold " >
+                <div class="article__time">18:51</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/politics/4078022-rf-y-venhryia-sohlasovaly-postavky-haza-bez-ukrayny">РФ и Венгрия согласовали поставки газа без Украины</a><span class="article__comments_count"><i class="ico-comment"></i>137</span></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">18:48</div>
+                <div class="article__title"><a href="https://korrespondent.net/sport/football/4078025-stepanenko-moraes-luibyt-nashu-stranu-y-on-khoroshyi-chelovek">Степаненко: Мораес любит нашу страну и он хороший человек</a></div>
+            </div>
+            <div class="article " >
+                <div class="article__time">18:44</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078019-pavel-hryb-vystupyl-s-poslednym-slovom-na-sude-v-rf">Павел Гриб выступил с последним словом на суде в РФ</a></div>
+            </div>
+            <div class="article  text_bold "  style="display: none" >
+                <div class="article__time">18:33</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078016-tret-ukrayntsev-ne-mozhet-skazat-kto-nachal-voinu-na-donbasse-opros">Треть украинцев не может сказать, кто начал войну на Донбассе – опрос</a><span class="article__comments_count"><i class="ico-comment"></i>341</span></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">18:26</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078014-suprun-rasskazala-kak-zaschytytsia-ot-luidei-s-predvybornym-obostrenyem">Супрун рассказала, как защититься от людей с "предвыборным обострением"</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">18:22</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/companies/4078013-ubytky-krupneishei-avyakompanyy-ukrayny-vyrosly-v-deviat-raz">Убытки крупнейшей авиакомпании Украины выросли в девять раз</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">18:13</div>
+                <div class="article__title"><a href="https://korrespondent.net/city/kiev/4078005-v-kyeve-otkryly-pamiatnyk-zvezde-shansona-vertynskomu"><i class="ico-photo"></i>В Киеве открыли памятник звезде шансона Вертинскому</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">18:08</div>
+                <div class="article__title"><a href="https://korrespondent.net/tech/science/4078008-uchenye-predskazaly-krupneishee-podvodnoe-yzverzhenye">Ученые предсказали крупнейшее подводное извержение</a></div>
+            </div>
+            <div class="article  text_bold "  style="display: none" >
+                <div class="article__time">18:07</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078007-tramp-otreahyroval-na-skandalnuui-statui-s-lutsenko">Трамп отреагировал на скандальную статью с Луценко</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">18:04</div>
+                <div class="article__title"><a href="https://korrespondent.net/lifestyle/4078003-konfuz-amerykanky-prevratyl-ee-v-ynternet-zvezdu"><i class="ico-video"></i>Конфуз американки превратил ее в интернет-звезду</a></div>
+            </div>
+            <div class="article  text_bold "  style="display: none" >
+                <div class="article__time">17:54</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/companies/4078001-sud-v-anhlyy-ostanovyl-spor-naftohaza-s-hazpromom">Суд в Англии остановил спор Нафтогаза с Газпромом</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:45</div>
+                <div class="article__title"><a href="https://korrespondent.net/city/kiev/4077995-v-kyeve-muzhchyna-v-riase-pod-kaifom-ustroyl-pohrom-v-bolnytse">В Киеве мужчина в рясе "под кайфом" устроил погром в больнице</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:39</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4077987-u-ekhavsheho-v-rossyui-odessyta-otobraly-75-kh-ustryts">У ехавшего в Россию одессита отобрали 75 кг устриц</a></div>
+            </div>
+            <div class="article  text_bold "  style="display: none" >
+                <div class="article__time">17:37</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/politics/4077993-yazykovyi-zakon-rada-ne-pryniala-ny-odnoi-popravky">Языковый закон: Рада не приняла ни одной поправки</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:35</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/vibory2019/4077988-deviat-kandydatov-v-prezydenty-poprosyly-ob-okhrane-avakov">Девять кандидатов в президенты попросили об охране - Аваков</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:30</div>
+                <div class="article__title"><a href="https://korrespondent.net/showbiz/4077985-kendal-dzhenner-snialas-v-reklame-verkhom-na-loshady"><i class="ico-video"></i>Кендал Дженнер снялась в рекламе верхом на лошади</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:28</div>
+                <div class="article__title"><a href="https://korrespondent.net/tech/space/4077983-v-mlechnom-puty-obnaruzhyly-hyhantskye-vykhlopnye-truby">В Млечном Пути обнаружили гигантские "выхлопные трубы"</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:24</div>
+                <div class="article__title"><a href="https://korrespondent.net/city/dnepr/4077982-nazvana-prychyna-massovoho-otravlenyia-detei-v-shkole-dnepra">Названа причина массового отравления детей в школе Днепра</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:16</div>
+                <div class="article__title"><a href="https://korrespondent.net/business/companies/4077977-khersonskaia-kompanyia-rasprodala-vertoletnye-dvyhately-yz-za-dolhov">Херсонская компания распродала вертолетные двигатели из-за долгов</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:11</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4077972-v-chernoe-more-voshel-korabl-vms-frantsyy">В Черное море вошел корабль ВМС Франции</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">17:05</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4077970-v-brazylyy-zaderzhaly-eks-prezydenta-po-delu-o-korruptsyy">В Бразилии задержали экс-президента по делу о коррупции</a></div>
+            </div>
+            <div class="article  text_bold "  style="display: none" >
+                <div class="article__time">17:01</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4077968-sbu-rasskazala-o-bespretsedentnoi-v-ystoryy-ukrayny-operatsyy">СБУ рассказала о "беспрецедентной в истории Украины" операции</a></div>
+            </div>
+            <div class="article "  style="display: none" >
+                <div class="article__time">16:56</div>
+                <div class="article__title"><a href="https://korrespondent.net/showbiz/music/4077966-kamenskykh-vysmeialy-za-foto-na-fone-burianov"><i class="ico-photo"></i>Каменских высмеяли за фото "на фоне бурьянов"</a></div>
+            </div>
+    </div>
+    
+    <a class="button button_block button_grey" id="aShowMoreList" onclick="ShowHidden();">БОЛЬШЕ НОВОСТЕЙ<i class="ico-down_dark"></i></a>
+    
+    <ul class="news-nav">
+        <li><a href="https://korrespondent.net/all/" class="link_marked">ВСЕ НОВОСТИ<i class="ico-arrow_dbl"></i></a></li>
+
+    </ul>
+</div>
+
+</div></div><script language="javascript" type="text/javascript">function FixScript1055(data)
+                                {
+	                                var begin = data.indexOf('<script');
+	                                var end = data.indexOf('</script');
+	                                var scripts = new Array();
+	
+	                                while(begin != -1 && end != -1)
+	                                {
+		                                var script = data.substring(begin, end + 9);
+		                                script = script.replace(new RegExp('<[/]*script[^>]*>','g'), '');
+		                                scripts.push(script);
+		                                data = data.substring(0, begin) + data.substring(end + 9);
+		
+		                                begin = data.indexOf('<script');
+		                                end = data.indexOf('</script');
+	                                }
+	
+	                                var trg = document.getElementById('ajNews1055');
+	                                if(trg != null)
+                                    {
+		                                trg.innerHTML = data;
+		
+		                                while(scripts.length != 0) 
+                                        {
+			                                var el = document.createElement('script');
+
+			                                el.text = scripts.pop();
+                                            el.defer = true;
+
+			                                trg.appendChild(el);
+		                                }
+	                                }
+                                }$(document).ready(function(){$("#ajNews1055").ajaxComplete(function(request, settings){$("#ajNews1055").attr('class','');$("#shadow1055").css('display', 'none');});});function ajaxNews1055(url){if(document.getElementById("shadow1055") != null) {document.getElementById("shadow1055").className='shad';document.getElementById("shadow1055").style.display='block';document.getElementById("shadow1055").style.position='absolute';document.getElementById("shadow1055").style.backgroundColor='#fff';document.getElementById("shadow1055").style.width = document.getElementById("ajNews1055").offsetWidth+"px";document.getElementById("shadow1055").style.height = document.getElementById("ajNews1055").offsetHeight+"px";document.getElementById("shadow1055").left = document.getElementById("ajNews1055").left+"px";document.getElementById("shadow1055").top = document.getElementById("ajNews1055").top+"px";}if(document.getElementById("shadowPrBar1055") != null) {document.getElementById("shadowPrBar1055").style.marginLeft = document.getElementById("ajNews1055").offsetWidth/2-12 + "px";document.getElementById("shadowPrBar1055").style.marginTop = document.getElementById("shadow1055").clientHeight / 2 + "px";}$.get(url,function(data){ data = data.replace(new RegExp('<[/]?form[^>]*>','gi'), '');FixScript1055(data);$("#ajNews1055").attr('class','');$("#shadow1055").css('display', 'none');},'html');}</script>
+
+<script>
+    var rubrics = $.Storage.get('korr.main.lenta');
+    if (rubrics != null && rubrics!= "" && rubrics!= ";") {
+        var href = "/ajax/module.aspx?spm_id=1055&type=%RUBRICID%&IsAjax=true";
+        ajaxNews1055(href.replace("%RUBRICID%", rubrics));
+    }
+</script>
+
+<div class="news-left"></div>
+<style>
+#main_content_400x400 {background: #eee;}
+#main_content_400x400 img, embed {margin: 0 auto; display: block;}
+</style>
+<div id="main_content_400x400"></div>
+
+
+<div class="unit-rubric">
+    <div class="unit-rubric__head">
+        <div class="unit-rubric__right">
+            <ul class="tags-list">
+                
+                            <li><a href="https://korrespondent.net/business/economics/">Новости экономики</a></li>
+                        
+                            <li><a href="https://korrespondent.net/business/financial/">Новости финансов</a></li>
+                        
+                            <li><a href="https://korrespondent.net/business/realestate/">Недвижимость</a></li>
+                        
+                        <li class="dropdown pull-right">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="javascript:void(0)">Все<i class="ico-down_dark"></i></a>
+                            <ul  class="dropdown-menu">
+                                
+                                        <li><a href="https://korrespondent.net/business/mmedia_and_adv/">СМИ и реклама</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/business/auto/">Авто новости</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/Default.aspx?page_id=93&lang=ru&roi=indexes">Индексы</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/business/rynki/">Фондовый рынок</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/business/web/">Интернет и IT</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/business/career/">Карьера</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/business/taxes/">Налоги</a></li>
+                                
+                            </ul>
+                        </li>
+                
+            </ul>
+        </div>
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/business/">БИЗНЕС<i class="ico-arrow_red"></i></a></h2>
+    </div>
+    
+        <div class="unit-rubric__money">
+        <a href="https://korrespondent.net/business/indexes/course_valjut/">Курсы наличных валют</a>
+            
+                <span><i class="ico-arrow_down"></i>USD&nbsp;2719.0</span>
+            
+                <span><i class="ico-arrow_up"></i>EUR&nbsp;3095.0</span>
+            
+                <span><i class="ico-arrow_up"></i>RUB&nbsp;40.5</span>
+            
+        </div>
+    
+    <div class="main-grid clearfix">
+        
+            <div class="article article_top_small">
+                
+                <a href="https://korrespondent.net/business/financial/4078090-fondovyi-rynok-ssha-zakrylsia-rostom" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/190x120/2304975.jpg" alt="Фондовый рынок США закрылся ростом" class="article__img">
+                </a>
+                
+                <div class="article__title"><a href="https://korrespondent.net/business/financial/4078090-fondovyi-rynok-ssha-zakrylsia-rostom">Фондовый рынок США закрылся ростом</a></div>
+            </div>
+        
+            <div class="article article_top_small">
+                
+                <a href="https://korrespondent.net/business/economics/4078054-rost-ekonomyky-pobyl-rekord-za-sem-let" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/190x120/2304919.jpg" alt="Рост экономики побил рекорд за семь лет" class="article__img">
+                </a>
+                
+                <div class="article__title"><a href="https://korrespondent.net/business/economics/4078054-rost-ekonomyky-pobyl-rekord-za-sem-let">Рост экономики побил рекорд за семь лет</a><span class="article__comments_count"><i class="ico-comment"></i>407</span></div>
+            </div>
+        
+	<div class="side-articles">
+        
+        <div class="article"><div class="article__title"><a href="https://korrespondent.net/business/companies/4078048-naftohaz-zapret-anhlyiskoho-suda-hazpromu-na-vyvod-aktyvov-ostaetsia-v-syle">Нафтогаз: Запрет английского суда Газпрому на вывод активов остается в силе</a></div></div>
+        
+        <div class="article"><div class="article__title"><a href="https://korrespondent.net/business/4077588-3D-mammohrafyia-uzhe-v-ukrayne"><em class="advertising">Реклама</em>3D-маммография уже в Украине</a></div></div>
+        
+        <div class="article"><div class="article__title"><a href="https://korrespondent.net/business/economics/4078036-kurs-nbu-na-22-marta-evro-perevalyl-za-31-hryvnu">Курс НБУ на 22 марта: евро "перевалил" за 31 гривну</a></div></div>
+        
+    </div>          
+      
+   </div>
+      
+</div>
+
+<div class="unit-rubric">
+    <div class="unit-rubric__head">
+    
+            <div class="unit-rubric__right">
+                <ul class="tags-list">
+                
+                            <li><a href="https://korrespondent.net/lifestyle/fashion/">Новости моды</a></li>
+                        
+                            <li><a href="https://korrespondent.net/lifestyle/fooddrinks/">Еда и напитки</a></li>
+                        
+                            <li><a href="https://korrespondent.net/lifestyle/motors/">Автомобили</a></li>
+                        
+                        <li class="dropdown pull-right">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="javascript:void(0)">Все<i class="ico-down_dark"></i></a>
+                            <ul  class="dropdown-menu">
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/afisha/">Афиша мероприятий</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/wheel/">Европа на колесах</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/wine_map/">Вино, виски...</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/travel/">Новости туризма</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/gadgets/">Гаджеты</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/interiors/">Интерьеры</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/health/">Здоровье</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/lifestyle/videoigry/">Киберспорт</a></li>
+                                
+                            </ul>
+                        </li>
+                
+               </ul>
+        </div>
+    
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/Default.aspx?page_id=9&lang=ru">СТИЛЬ ЖИЗНИ<i class="ico-arrow_red"></i></a></h2>
+    </div>
+
+    <div class="main-grid clearfix">
+    
+            <div class="article article_top_small">
+                
+                <a href="https://korrespondent.net/lifestyle/gadgets/4077922-Oculus-predstavyla-novyi-VR-shlem-Rift-S" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/190x120/2304796.jpg" alt="Oculus представила новый VR-шлем Rift S" class="article__img"><i class="icon-video"></i>
+                </a>
+                
+                <div class="article__title"><a href="https://korrespondent.net/lifestyle/gadgets/4077922-Oculus-predstavyla-novyi-VR-shlem-Rift-S">Oculus представила новый VR-шлем Rift S</a></div>
+            </div>
+        
+            <div class="article article_top_small">
+                
+                <a href="https://korrespondent.net/lifestyle/4077881-amerykanets-v-71-hod-prostoial-v-planke-38-mynut" class="article__img-link">
+                    <img src="https://kor.ill.in.ua/m/190x120/2304728.jpg" alt="Американец в 71 год простоял в планке 38 минут" class="article__img"><i class="icon-video"></i>
+                </a>
+                
+                <div class="article__title"><a href="https://korrespondent.net/lifestyle/4077881-amerykanets-v-71-hod-prostoial-v-planke-38-mynut">Американец в 71 год простоял в планке 38 минут</a></div>
+            </div>
+        
+	<div class="side-articles">
+        
+        <div class="article"><div class="article__title"><a href="https://korrespondent.net/lifestyle/4077868-anhlychanka-zarabotala-myllyony-na-ymenakh-dlia-kytaiskykh-detei">Англичанка заработала миллионы на именах для китайских детей</a></div></div>
+        
+        <div class="article"><div class="article__title"><a href="https://korrespondent.net/lifestyle/4077831-buistvo-krasok-v-yndyy-zavershaetsia-festyval-kholy"><i class="ico-photo"></i>Буйство красок. В Индии завершается фестиваль Холи</a></div></div>
+        
+    </div>          
+    
+            
+   </div>
+      
+</div>
+
+                                <div class="main-grid">
+                                    
+<div class="photo_main unit-rubric-slider">
+
+    <div class="unit-rubric__head">
+        <h3 class="unit-rubric__title"><a href="https://korrespondent.net/photo/">ФОТОГАЛЕРЕЯ<i class="ico-arrow_red"></i></a></h3>    
+         <div class="unit-rubric__right">
+            <div class="switch__text" id="count-_1_9"></div>
+        </div>
+     </div>
+<div id="csp-_1_9" class="royalSlider contentSlider rsDefault">
+            
+        <div class="article article_top">
+            
+            <div class="rsContent">
+                <a class="rsImg article__img" href="https://kor.ill.in.ua/m/400x253/2304979.jpg"></a>
+                <a class="rsLink" href="https://korrespondent.net/city/kiev/4078092-v-kyeve-marshrutka-sbyla-troykh-zhenschyn-na-perekhode"><i class="icon-video_large"></i><i class="icon-photo_large"></i></a>
+            </div>
+            
+            <div class="article__title"><a href="https://korrespondent.net/city/kiev/4078092-v-kyeve-marshrutka-sbyla-troykh-zhenschyn-na-perekhode">В Киеве маршрутка сбила троих женщин на переходе</a></div>
+        </div>
+            
+        <div class="article article_top">
+            
+            <div class="rsContent">
+                <a class="rsImg article__img" href="https://kor.ill.in.ua/m/400x253/2304901.jpeg"></a>
+                <a class="rsLink" href="https://korrespondent.net/ukraine/4078046-kontrabandysty-pytalys-provezty-na-teplokhode-20-tysiach-pachek-syharet"><i class="icon-video_large"></i><i class="icon-photo_large"></i></a>
+            </div>
+            
+            <div class="article__title"><a href="https://korrespondent.net/ukraine/4078046-kontrabandysty-pytalys-provezty-na-teplokhode-20-tysiach-pachek-syharet">Контрабандисты пытались провезти на теплоходе 20 тысяч пачек...</a></div>
+        </div>
+            
+        <div class="article article_top">
+            
+            <div class="rsContent">
+                <a class="rsImg article__img" href="https://kor.ill.in.ua/m/400x253/2304865.jpeg"></a>
+                <a class="rsLink" href="https://korrespondent.net/city/kiev/4078005-v-kyeve-otkryly-pamiatnyk-zvezde-shansona-vertynskomu"><i class="icon-photo_large"></i></a>
+            </div>
+            
+            <div class="article__title"><a href="https://korrespondent.net/city/kiev/4078005-v-kyeve-otkryly-pamiatnyk-zvezde-shansona-vertynskomu">В Киеве открыли памятник звезде шансона Вертинскому</a></div>
+        </div>
+            
+        <div class="article article_top">
+            
+            <div class="rsContent">
+                <a class="rsImg article__img" href="https://kor.ill.in.ua/m/400x253/2304841.jpg"></a>
+                <a class="rsLink" href="https://korrespondent.net/showbiz/music/4077966-kamenskykh-vysmeialy-za-foto-na-fone-burianov"><i class="icon-photo_large"></i></a>
+            </div>
+            
+            <div class="article__title"><a href="https://korrespondent.net/showbiz/music/4077966-kamenskykh-vysmeialy-za-foto-na-fone-burianov">Каменских высмеяли за фото "на фоне бурьянов"</a></div>
+        </div>
+            
+        <div class="article article_top">
+            
+            <div class="rsContent">
+                <a class="rsImg article__img" href="https://kor.ill.in.ua/m/400x253/2304832.jpg"></a>
+                <a class="rsLink" href="https://korrespondent.net/ukraine/4077962-pod-kyevom-nakryly-podpolnyi-tsekh-po-proyzvodstvu-surrohatnoho-alkoholia"><i class="icon-photo_large"></i></a>
+            </div>
+            
+            <div class="article__title"><a href="https://korrespondent.net/ukraine/4077962-pod-kyevom-nakryly-podpolnyi-tsekh-po-proyzvodstvu-surrohatnoho-alkoholia">Под Киевом "накрыли" подпольный цех по производству суррогатного...</a></div>
+        </div>
+    
+</div>
+</div>
+
+
+<div class="rubric-articles">
+    
+        <div class="unit-rubric__head">
+        
+
+        <div class="unit-rubric__right">
+            <ul class="tags-list">
+                
+                            <li><a href="https://korrespondent.net/world/worldabus/">Мир о нас</a></li>
+                        
+            </ul>
+        </div>
+        
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/world/">Новости мира<i class="ico-arrow_red"></i></a></h2>
+    </div>
+    
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/world/4078093-es-ne-pryznaet-holany-chastui-yzraylia">ЕС не признает Голаны частью Израиля</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/world/4078088-ssha-mohut-fynansovo-zadushyt-vlasty-venesuely-bolton">США могут "финансово задушить" власти Венесуэлы − Болтон</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/world/4078082-v-es-khotiat-perenesty-Brexit-na-konets-hoda-smy">В ЕС хотят перенести Brexit на конец года - СМИ</a></div>
+            </div>
+        
+    </div>
+
+
+
+<div class="rubric-articles">
+    
+        <div class="unit-rubric__head">
+        
+
+        <div class="unit-rubric__right">
+            <ul class="tags-list">
+                
+                        <li class="dropdown pull-right">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="javascript:void(0)">Все<i class="ico-down_dark"></i></a>
+                            <ul  class="dropdown-menu">
+                                
+                                        <li><a href="https://korrespondent.net/showbiz/cinema/">Новости кино</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/showbiz/music/">Музыка</a></li>
+                                
+                            </ul>
+                        </li>
+                
+            </ul>
+        </div>
+        
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/showbiz/">Шоу-бизнес<i class="ico-arrow_red"></i></a></h2>
+    </div>
+    
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/showbiz/4077985-kendal-dzhenner-snialas-v-reklame-verkhom-na-loshady"><i class="ico-video"></i>Кендал Дженнер снялась в рекламе верхом на лошади</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/showbiz/music/4077966-kamenskykh-vysmeialy-za-foto-na-fone-burianov"><i class="ico-photo"></i>Каменских высмеяли за фото "на фоне бурьянов"</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/showbiz/music/4077951-v-moskve-pokhoronyly-pevytsu-yulyui-nachalovu"><i class="ico-video"></i>В Москве похоронили певицу Юлию Началову</a></div>
+            </div>
+        
+    </div>
+
+
+<div class="main-quota">
+    
+    <div class="unit-rubric__head">
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/all_quotations/">ЦИТАТА ДНЯ<i class="ico-arrow_red"></i></a></h2>
+    </div>
+     
+       <div class="quota quote_content">
+            <a href="https://korrespondent.net/quotation/7745-evropeiskye-kollehy-vysoko-otsenyly-prohress-po-vypolnenyui-prohrammy-neobkhodymoi-dlia-vtoroho-transha-makrofynansovoi-pomoschy-a-takzhe-podtverdyly-hotovnost-okazyvat-ynvestytsyonnuui-y-kredytnuui-podderzhku-proektov-pryazovia">
+            <span class="main-quote">Европейские коллеги высоко оценили прогресс по выполнению программы, необходимой для второго транша макрофинансовой помощи, а также подтвердили готовность оказывать инвестиционную и кредитную поддержку проектов Приазовья</span>
+            </a>
+            <div class="quote__author">
+                <a href="https://korrespondent.net/quotation/7745-evropeiskye-kollehy-vysoko-otsenyly-prohress-po-vypolnenyui-prohrammy-neobkhodymoi-dlia-vtoroho-transha-makrofynansovoi-pomoschy-a-takzhe-podtverdyly-hotovnost-okazyvat-ynvestytsyonnuui-y-kredytnuui-podderzhku-proektov-pryazovia" class="quote-avatar"><noscript><img src="https://kor.ill.in.ua/m/67x67/2304703.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x67/2304703.jpg" alt="Европейские коллеги высоко оценили прогресс по выполнению программы, необходимой для второго транша макрофинансовой помощи, а также подтвердили готовность оказывать инвестиционную и кредитную поддержку проектов Приазовья" class="lzl"></a>
+                <span class="quote__author-name">Оксана Маркарова, министр финансов Украины</span><span class="quote__author-about"></span>
+            </div>
+        </div>
+     
+    </div>
+    <script type="text/javascript">
+                    $(".quote_content img.lzl").lazyload({
+                        placeholder: "/i/blank.gif",
+                        effect: "fadeIn",
+                        effectspeed: 10
+                    });
+                    $(".quote_content noscript").remove();
+            </script>
+
+
+<div class="rubric-articles">
+    
+        <div class="unit-rubric__head">
+        
+
+        <div class="unit-rubric__right">
+            <ul class="tags-list">
+                
+                        <li class="dropdown pull-right">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="javascript:void(0)">Все<i class="ico-down_dark"></i></a>
+                            <ul  class="dropdown-menu">
+                                
+                                        <li><a href="https://korrespondent.net/sport/football/">Новости футбола</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/sport/boks/">Новости бокса</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/sport/basketball/">Новости баскетбола</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/sport/tenis/">Новости тенниса</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/sport/formula/">Новости Формулы-1</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/sport/hokey/">Новости хоккея</a></li>
+                                
+                                        <li><a href="https://korrespondent.net/sport/chess/">Новости шахмат</a></li>
+                                
+                            </ul>
+                        </li>
+                
+            </ul>
+        </div>
+        
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/sport/">Новости спорта<i class="ico-arrow_red"></i></a></h2>
+    </div>
+    
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/sport/football/4078047-santush-o-matche-s-ukraynoi-uveren-v-pobede-portuhalyy">Сантуш - о матче с Украиной: Уверен в победе Португалии</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/sport/other/4078030-byatlon-kuzmyna-vyyhrala-sprynt-v-kholmenkollene">Биатлон: Кузьмина выиграла спринт в Холменколлене</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/sport/football/4078025-stepanenko-moraes-luibyt-nashu-stranu-y-on-khoroshyi-chelovek">Степаненко: Мораес любит нашу страну и он хороший человек</a></div>
+            </div>
+        
+    </div>
+
+
+
+<div class="rubric-articles">
+    
+        <div class="unit-rubric__head">
+        
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/strange/">Странности<i class="ico-arrow_red"></i></a></h2>
+    </div>
+    
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/strange/4070599-v-frh-u-dolzhnykov-konfyskovaly-psa-y-prodaly-eho-v-ynternete">В ФРГ у должников конфисковали пса и продали его в интернете</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/strange/4065396-v-avstralyy-vyrastyly-hyhantskuui-kapustu"><i class="ico-photo"></i>В Австралии вырастили гигантскую капусту</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/strange/4057809-klychko-okonfuzylsia-pered-pressoi-v-davose"><i class="ico-video"></i>Кличко оконфузился перед прессой в Давосе</a><span class="article__comments_count"><i class="ico-comment"></i>95</span></div>
+            </div>
+        
+    </div>
+
+
+
+<div class="rubric-articles">
+    
+        <div class="unit-rubric__head">
+        
+        <h2 class="unit-rubric__title"><a href="https://korrespondent.net/tech/">Наука и медицина<i class="ico-arrow_red"></i></a></h2>
+    </div>
+    
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/tech/space/4078071-NASA-otkryly-zvezdu-mchaschuuisia-s-ohromnoi-skorostui">NASA открыли звезду, мчащуюся с огромной скоростью</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/tech/science/4078008-uchenye-predskazaly-krupneishee-podvodnoe-yzverzhenye">Ученые предсказали крупнейшее подводное извержение</a></div>
+            </div>
+        
+            <div class="article">
+                <div class="article__title"><a href="https://korrespondent.net/tech/space/4077983-v-mlechnom-puty-obnaruzhyly-hyhantskye-vykhlopnye-truby">В Млечном Пути обнаружили гигантские "выхлопные трубы"</a></div>
+            </div>
+        
+    </div>
+
+
+                                </div>
+                            </div>
+                            <div class="col__center">
+                                <div class="news-right">
+                                    
+<div class="section-unit">
+
+    <div class="unit-rubric__head">
+        <h3 class="unit-rubric__title"><span>Фото, видео</span></h3>
+    </div>
+        <div class="main-articles">
+            
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/city/kiev/4078092-v-kyeve-marshrutka-sbyla-troykh-zhenschyn-na-perekhode" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304979.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304979.jpg" alt="В Киеве маршрутка сбила троих женщин на переходе" class="article__img lzl"><i class="icon-video"></i><i class="icon-photo"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/city/kiev/4078092-v-kyeve-marshrutka-sbyla-troykh-zhenschyn-na-perekhode">В Киеве маршрутка сбила троих женщин на переходе</a>
+                        <span class="article__time">&nbsp;- 00:31</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/lifestyle/4078003-konfuz-amerykanky-prevratyl-ee-v-ynternet-zvezdu" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304862.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304862.jpg" alt="Конфуз американки превратил ее в интернет-звезду" class="article__img lzl"><i class="icon-video"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/lifestyle/4078003-konfuz-amerykanky-prevratyl-ee-v-ynternet-zvezdu">Конфуз американки превратил ее в интернет-звезду</a>
+                        <span class="article__time">&nbsp;- Вчера, 18:04</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/showbiz/4077985-kendal-dzhenner-snialas-v-reklame-verkhom-na-loshady" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304852.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304852.jpg" alt="Кендал Дженнер снялась в рекламе верхом на лошади" class="article__img lzl"><i class="icon-video"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/showbiz/4077985-kendal-dzhenner-snialas-v-reklame-verkhom-na-loshady">Кендал Дженнер снялась в рекламе верхом на лошади</a>
+                        <span class="article__time">&nbsp;- Вчера, 17:30</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/showbiz/music/4077951-v-moskve-pokhoronyly-pevytsu-yulyui-nachalovu" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304825.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304825.jpg" alt="В Москве похоронили певицу Юлию Началову" class="article__img lzl"><i class="icon-video"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/showbiz/music/4077951-v-moskve-pokhoronyly-pevytsu-yulyui-nachalovu">В Москве похоронили певицу Юлию Началову</a>
+                        <span class="article__time">&nbsp;- Вчера, 16:35</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/tech/space/4077871-temnyi-almaz-doklad-ob-asteroyde-sudnoho-dnia" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304820.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304820.jpg" alt="Темный алмаз. Доклад об  астероиде судного дня " class="article__img lzl"><i class="icon-photo"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/tech/space/4077871-temnyi-almaz-doklad-ob-asteroyde-sudnoho-dnia"><em class="story">Сюжет</em>Темный алмаз. Доклад об "астероиде судного дня"</a>
+                        <span class="article__time">&nbsp;- Вчера, 16:30</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/city/kiev/4077943-v-otele-kyeva-razoblachyly-elytnyi-bordel" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304810.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304810.jpg" alt="В отеле Киева разоблачили элитный бордель" class="article__img lzl"><i class="icon-video"></i><i class="icon-photo"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/city/kiev/4077943-v-otele-kyeva-razoblachyly-elytnyi-bordel">В отеле Киева разоблачили элитный бордель</a>
+                        <span class="article__time">&nbsp;- Вчера, 16:25</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/lifestyle/gadgets/4077922-Oculus-predstavyla-novyi-VR-shlem-Rift-S" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304796.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304796.jpg" alt="Oculus представила новый VR-шлем Rift S" class="article__img lzl"><i class="icon-video"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/lifestyle/gadgets/4077922-Oculus-predstavyla-novyi-VR-shlem-Rift-S">Oculus представила новый VR-шлем Rift S</a>
+                        <span class="article__time">&nbsp;- Вчера, 15:50</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/showbiz/music/4077899-set-vostorhaetsia-stroinoi-fyhuroi-dzhennyfer-lopes" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304745.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304745.jpg" alt="Сеть восторгается стройной фигурой Дженнифер Лопес" class="article__img lzl"><i class="icon-photo"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/showbiz/music/4077899-set-vostorhaetsia-stroinoi-fyhuroi-dzhennyfer-lopes">Сеть восторгается стройной фигурой Дженнифер Лопес</a>
+                        <span class="article__time">&nbsp;- Вчера, 15:05</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/city/dnepr/4077896-v-dnepre-yz-pryparkovannoho-avto-ukraly-50000-evro" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304738.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304738.jpg" alt="В Днепре из припаркованного авто украли 50000 евро" class="article__img lzl"><i class="icon-video"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/city/dnepr/4077896-v-dnepre-yz-pryparkovannoho-avto-ukraly-50000-evro">В Днепре из припаркованного авто украли 50000 евро</a>
+                        <span class="article__time">&nbsp;- Вчера, 15:00</span>
+                    </div>                
+                </div>
+             
+                <div class="article article_top_small">
+                    <a href="https://korrespondent.net/ukraine/vibory2019/4077852-tsyk-pokazala-yzbyratelnyi-builleten" class="article__img-link"><noscript><img src="https://kor.ill.in.ua/m/190x120/2304689.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/190x120/2304689.jpg" alt="ЦИК показала избирательный бюллетень" class="article__img lzl"><i class="icon-video"></i><i class="icon-photo"></i></a>
+                    <div class="article__title"><a href="https://korrespondent.net/ukraine/vibory2019/4077852-tsyk-pokazala-yzbyratelnyi-builleten">ЦИК показала избирательный бюллетень</a>
+                        <span class="article__time">&nbsp;- Вчера, 13:42</span>
+                    </div>                
+                </div>
+                                    
+            </div>
+        </div>
+        <script type="text/javascript">
+                    $(".article_top_small img.lzl").lazyload({
+                        placeholder: "/i/blank.gif",
+                        effect: "fadeIn",
+                        effectspeed: 10
+                    });
+                    $(".article_top_small noscript").remove();
+            </script>
+
+<div class="section-unit">
+    
+    <div class="unit-rubric__head">
+        <h3 class="unit-rubric__title"><a href="https://korrespondent.net/humor/">АНЕКДОТЫ<i class="ico-arrow_red"></i></a></h3>
+    </div>
+        <div class="article article_anecdote"> 
+            <p class="article__title"><a href="https://korrespondent.net/humor/7219-somnenyia-obse">Сомнения ОБСЕ</a></p>
+            <p class="article__text">
+	Заподозрил как-то Заместитель главы Специальной мониторинговой миссии ОБСЕ в Украине Александр&nbsp;Хуг жену в измене. Нанял детектива. Через время тот отчитывается:
+
+	&nbsp;
+
+	-Встретилась с мужчиной в кафе, пили, поехали в отель, начали обни...</p>
+            <div class="article__time">29&nbsp;октября 2018, 14:32 </div>
+        </div>
+    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col__sidebar">   
+                        <div id="holder_300x60_85"></div>
+<div id="holder_300x60_85"></div>
+<div id="holder_300x60_86"></div>
+<div id="holder_300x60_86"></div>
+<div id="holder_300x60_0"></div>
+<div id="holder_300x60_0"></div>
+<div id="holder_300x60_18"></div>
+<div id="holder_300x60_18"></div>
+<div id="holder_300x60_19"></div>
+<div id="holder_300x60_19"></div>
+
+<div class="unit-side-banner"><div id="for_ph_premium"></div></div>
+
+   
+<div class="blog-container">
+   <div class="unit-rubric">
+    <div class="unit-rubric__head">
+        <h3 class="unit-rubric__title"><a href="https://blogs.korrespondent.net/">Мнения<i class="ico-arrow_red"></i></a></h3>
+    </div>
+    <div class="rating-blogs first-blogs">
+        
+            <div class="article article_first-blog">
+            
+                <a href="https://korrespondent.net/user/66491820/activity/" class="article__img">
+                    <img src="https://kor.ill.in.ua/m/170x170/2174832.jpg" alt="" class="article__img">
+                </a>
+            
+            <div class="article__title">
+                <div class="side-blog__text"><a href="https://blogs.korrespondent.net/blog/world/4077926/">Всем плевать на государство</a></div>
+                
+                    <a href="https://korrespondent.net/user/66491820/activity/" class="side-blog__author">Нурлан Туреханов</a>
+                
+            </div>
+        </div>                  
+          
+            <div class="article article_first-blog">
+            
+                <a href="https://korrespondent.net/user/66400104/activity/" class="article__img">
+                    <img src="https://kor.ill.in.ua/m/170x170/2009744.jpeg" alt="" class="article__img">
+                </a>
+            
+            <div class="article__title">
+                <div class="side-blog__text"><a href="https://blogs.korrespondent.net/blog/politics/4077902/">Когда в Украину доставят Javelin?</a></div>
+                
+                    <a href="https://korrespondent.net/user/66400104/activity/" class="side-blog__author">Александр Мусиенко</a>
+                
+            </div>
+        </div>                  
+          
+            <div class="article article_first-blog">
+            
+                <a href="https://korrespondent.net/user/66498778/activity/" class="article__img">
+                    <img src="https://kor.ill.in.ua/m/170x170/2192164.jpg" alt="" class="article__img">
+                </a>
+            
+            <div class="article__title">
+                <div class="side-blog__text"><a href="https://blogs.korrespondent.net/blog/politics/4077842/">Досить танцювати під дудку Трампа! – вимагають у Європі</a></div>
+                
+                    <a href="https://korrespondent.net/user/66498778/activity/" class="side-blog__author">Леонід Кожара</a>
+                
+            </div>
+        </div>                  
+                          
+    </div>
+</div>
+</div>
+<div id="holder_300x100_24"></div>
+<div id="holder_300x60_84" class="unit-side-banner"></div>
+
+
+<div class="unit-rubric">
+        <div class="unit-rubric__head">
+            <h3 class="unit-rubric__title"><a href="https://korrespondent.net/special/1657-suizhety">Сюжеты<i class="ico-arrow_red"></i></a></h3>
+        </div>
+        
+        <div class="expert-articles"  id="expert_article">
+            
+            <div class="article article_expert">
+                <a href="https://korrespondent.net/ukraine/4078066-bez-osoboho-vreda-novye-sanktsyy-ukrayny-protyv-rf" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2304944.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2304944.jpg" alt="Без особого вреда. Новые санкции Украины против РФ" class="article__img lzl">
+                    
+                </a>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4078066-bez-osoboho-vreda-novye-sanktsyy-ukrayny-protyv-rf">Без особого вреда. Новые санкции Украины против РФ</a><span class="article__comments_count"><i class="ico-comment"></i>155</span></div>
+            </div>
+            <div class="article article_expert">
+                <a href="https://korrespondent.net/world/4078029-orbana-vyhnaly-yz-ep-no-evroskeptyky-obedyniauitsia" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2304921.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2304921.jpg" alt="Орбана выгнали из ЕП. Но евроскептики объединяются" class="article__img lzl">
+                    
+                </a>
+                <div class="article__title"><a href="https://korrespondent.net/world/4078029-orbana-vyhnaly-yz-ep-no-evroskeptyky-obedyniauitsia">Орбана выгнали из ЕП. Но евроскептики объединяются</a></div>
+            </div>
+            <div class="article article_expert">
+                <a href="https://korrespondent.net/sport/4077293-portuhalyia-ukrayna-onlain-otborochnoho-matcha-evro-2020" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2303954.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2303954.jpg" alt="Португалия - Украина: онлайн отборочного матча Евро-2020" class="article__img lzl">
+                    
+                </a>
+                <div class="article__title"><a href="https://korrespondent.net/sport/4077293-portuhalyia-ukrayna-onlain-otborochnoho-matcha-evro-2020">Португалия - Украина: онлайн отборочного матча Евро-2020</a></div>
+            </div>
+            <div class="article article_expert">
+                <a href="https://korrespondent.net/tech/space/4077871-temnyi-almaz-doklad-ob-asteroyde-sudnoho-dnia" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2304820.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2304820.jpg" alt="Темный алмаз. Доклад об  астероиде судного дня " class="article__img lzl">
+                    
+                </a>
+                <div class="article__title"><a href="https://korrespondent.net/tech/space/4077871-temnyi-almaz-doklad-ob-asteroyde-sudnoho-dnia"><i class="ico-photo"></i>Темный алмаз. Доклад об "астероиде судного дня"</a></div>
+            </div>
+            <div class="article article_expert">
+                <a href="https://korrespondent.net/ukraine/4077880-ruka-vashynhtona-zachem-lutsenko-naekhal-na-posla" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2304725.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2304725.jpg" alt="Рука Вашингтона. Зачем Луценко  наехал  на посла" class="article__img lzl">
+                    
+                </a>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4077880-ruka-vashynhtona-zachem-lutsenko-naekhal-na-posla">Рука Вашингтона. Зачем Луценко "наехал" на посла</a><span class="article__comments_count"><i class="ico-comment"></i>82</span></div>
+            </div>
+        </div><script type="text/javascript">
+                    $("#expert_article img.lzl").lazyload({
+                        placeholder: "/i/blank.gif",
+                        effect: "fadeIn",
+                        effectspeed: 10
+                    });
+                    $("#expert_article noscript").remove();
+            </script>
+</div>
+
+<div class="unit-rubric">
+    <div id="_1_20_ajax">
+	<div id="ajNews1064"><div id="shadow1064" style="display:none; z-index: 100;"><div id="shadowPrBar1064"><img src='i/ajax.gif' alt="" /></div></div>
+        <div class="unit-rubric__head">
+            <h3 class="unit-rubric__title"><a href="https://korrespondent.net/popular/most_viewed/">ПОПУЛЯРНЫЕ<i class="ico-arrow_red"></i></a></h3>
+        </div>
+        <ul class="tabs tabs_articles">
+            <li class="tabs__item  tabs__item_active ">
+                <a href="javascript:ajaxNews1064('/ajax/module.aspx?spm_id=1064&tsel=0&roi=&IsAjax=true')">ЧИТАЕМЫЕ</a>
+            </li>
+            <li class="tabs__item  ">
+                <a href="javascript:ajaxNews1064('/ajax/module.aspx?spm_id=1064&tsel=1&roi=&IsAjax=true')">КОММЕНТИРУЕМЫЕ</a>
+            </li>
+            <li class="tabs__item  ">
+                <a href="javascript:ajaxNews1064('/ajax/module.aspx?spm_id=1064&tsel=2&roi=&IsAjax=true')">СОЦИАЛЬНЫЕ</a>
+            </li>
+        </ul>
+        
+        <div class="rating-articles">
+            
+            <div class="article article_rating ">
+                <a href="https://korrespondent.net/ukraine/4077615-lutsenko-ssha-daly-mne-spysok-neprykasaemykh" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2304377.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2304377.jpg" alt="Луценко: США дали мне список неприкасаемых" class="article__img lzl">
+                    
+                </a>
+                <div class="article__place">1</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4077615-lutsenko-ssha-daly-mne-spysok-neprykasaemykh">Луценко: США дали мне список неприкасаемых</a> <span class="article__comments_count"><i class="ico-view"></i>50909</span></div>
+            </div>
+            <div class="article article_rating ">
+                <a href="https://korrespondent.net/world/4077104-ochevydtsy-snialy-na-vydeo-zahadochnuui-dyru-v-nebe" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2303776.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2303776.jpg" alt="Очевидцы сняли на видео загадочную  дыру  в небе" class="article__img lzl">
+                    
+                </a>
+                <div class="article__place">2</div>
+                <div class="article__title"><a href="https://korrespondent.net/world/4077104-ochevydtsy-snialy-na-vydeo-zahadochnuui-dyru-v-nebe"><i class="ico-video"></i>Очевидцы сняли на видео загадочную "дыру" в небе</a> <span class="article__comments_count"><i class="ico-view"></i>47013</span></div>
+            </div>
+            <div class="article article_rating ">
+                <a href="https://korrespondent.net/city/kiev/4077186-moschnyi-vzryv-v-kyeve-novye-podrobnosty" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2303856.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2303856.jpg" alt="Мощный взрыв в Киеве: новые подробности" class="article__img lzl">
+                    
+                </a>
+                <div class="article__place">3</div>
+                <div class="article__title"><a href="https://korrespondent.net/city/kiev/4077186-moschnyi-vzryv-v-kyeve-novye-podrobnosty">Мощный взрыв в Киеве: новые подробности</a> <span class="article__comments_count"><i class="ico-view"></i>40698</span></div>
+            </div>
+            <div class="article article_rating ">
+                <a href="https://korrespondent.net/ukraine/4077195-naselenye-v-ukrayne-sokraschaetsia-vse-bystree" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2303861.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2303861.jpg" alt="Население в Украине сокращается все быстрее" class="article__img lzl">
+                    
+                </a>
+                <div class="article__place">4</div>
+                <div class="article__title"><a href="https://korrespondent.net/ukraine/4077195-naselenye-v-ukrayne-sokraschaetsia-vse-bystree">Население в Украине сокращается все быстрее</a> <span class="article__comments_count"><i class="ico-view"></i>39752</span></div>
+            </div>
+            <div class="article article_rating ">
+                <a href="https://korrespondent.net/lifestyle/poker/4077509-seryui-turnyrov-v-tallynne-nazvaly-v-chest-zhyvoi-lehendy-pokera" class="article__img-link">
+                    <noscript><img src="https://kor.ill.in.ua/m/67x43/2304206.jpg"></noscript><img src="/i/blank.gif" data-href="https://kor.ill.in.ua/m/67x43/2304206.jpg" alt="Серию турниров в Таллинне назвали в честь живой легенды покера" class="article__img lzl">
+                    
+                </a>
+                <div class="article__place">5</div>
+                <div class="article__title"><a href="https://korrespondent.net/lifestyle/poker/4077509-seryui-turnyrov-v-tallynne-nazvaly-v-chest-zhyvoi-lehendy-pokera"><em class="special-project">Спецпроект</em>Серию турниров в Таллинне назвали в честь живой легенды покера</a> <span class="article__comments_count"><i class="ico-view"></i>1038</span></div>
+            </div>
+        </div>
+</div></div>
+    <script type="text/javascript">
+                    $(".rating-articles img.lzl").lazyload({
+                        placeholder: "/i/blank.gif",
+                        effect: "fadeIn",
+                        effectspeed: 10
+                    });
+                    $(".rating-articles noscript").remove();
+            </script>
+    
+
+</div>
+<div class="unit-side-banner"><div id="holder_300x30_0"></div></div>
+<div class="unit-side-banner"><div id="holder_2222_hp"></div></div>
+<div class="unit-side-banner"><div id="holder_300x30_40"></div></div>
+<div id="holder_300x60_92" class="unit-side-banner"></div>
+
+<div class="unit-side-banner"><div id="holder_300x300_12"></div></div>
+
+
+
+<script type="text/javascript">
+function vote() {
+    $.get('/ajax/module.aspx?spm_id=441&iv=0&IsAjax=true', function (data) {
+        $('#voteitem').html(data); 
+     });
+}
+
+vote(); 
+</script>
+
+<div id="voteitem"></div>
+<div class="unit-rubric">
+    <div class="unit-rubric__head">
+        <h3 class="unit-rubric__title">
+            <span>Корреспондент.net в cоцсетях</span></h3>
+    </div>
+    <ul class="tabs tabs_articles">
+        
+        <li id='lifacebook' class="tabs__item tabs__item_active"><a href="javascript:ShowDiv('facebook')">Facebook</a></li>        
+        <li id='litwitter' class="tabs__item"><a href="javascript:ShowDiv('twitter')">Twitter</a></li>
+        <li id='ligplus' class="tabs__item"><a href="javascript:ShowDiv('gplus')">Google+</a></li>
+    </ul>
+    <div class="social-block">
+        <div id="gplus">
+            <div style="margin: 0 auto 0 auto; width: 298px; overflow: hidden;">
+                <div style="margin: -3px 0 0 -1px;">
+                        <div class="g-plus" data-href="https://plus.google.com/110778647690363652913" data-rel="publisher">
+                        </div>
+                        <script type="text/javascript">
+                            (function (cash) {
+                                $(function () {
+                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                    po.src = 'https://apis.google.com/js/plusone.js';
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                                });
+                            })(jQuery);
+                        </script>
+                </div>
+            </div>
+        </div>
+        <div id="facebook">
+            <iframe id="f287bd51a8" name="f32382af4" scrolling="no" title="Like this content on Facebook." class="fb_ltr" src="https://www.facebook.com/plugins/like.php?api_key=167281110000227&amp;channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D27%23cb%3Df3d6db4014%26domain%3Dkorrespondent.net%26origin%3Dhttp%253A%252F%252Fkorrespondent.net%252Ff18e50e36c%26relation%3Dparent.parent&amp;colorscheme=light&amp;extended_social_context=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fkorrespondent.net&amp;layout=standard&amp;locale=ru_RU&amp;node_type=link&amp;sdk=joey&amp;send=false&amp;show_faces=true&amp;width=300" style="border: none; overflow: hidden; height: 70px; width: 300px;"></iframe>
+        </div>
+        <div id="twitter">
+            <iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/follow_button.html?screen_name=korrespondent"
+                style="width: 300px; height: 20px;"></iframe>
+        </div>
+        
+    </div>
+    <script type="text/javascript">
+        $(function () {
+            ShowDiv('facebook');
+        });
+
+        function ShowDiv(divId) {
+            HideDiv('facebook');
+            HideDiv('gplus');
+            HideDiv('twitter');
+            //HideDiv('vk');
+            $('#lifacebook').removeClass('tabs__item_active');
+            $('#ligplus').removeClass('tabs__item_active');
+            $('#litwitter').removeClass('tabs__item_active');
+            //$('#livk').removeClass('tabs__item_active');
+
+            $('#li' + divId).addClass('tabs__item_active');
+            $('#' + divId).show();
+        }
+
+        function HideDiv(divId) {
+            $('#' + divId).hide();
+        }
+    </script>
+</div>
+
+ 
+<div class="unit-rubric">
+    <div class="unit-rubric__head">
+        <h3 class="unit-rubric__title"><a href="https://korrespondent.net/votes/6150/">ОПРОС<i class="ico-arrow_red"></i></a></h3>
+    </div>
+    <div class="poll-ask">Кто должен представлять Украину на Евровидении-2019?</div>
+     
+    <div class="poll-results">
+        
+        <div class="poll-result poll-result_top">
+            <div class="poll-result__title">MARUV, она честно победила</div>
+            <div class="poll-result__bar"><div class="poll-result__line" style="width: 53%"></div></div>
+            <div class="poll-result__percent">53,97%<div class="poll-result__count">(13886)</div></div>
+        </div>
+        
+        <div class="poll-result ">
+            <div class="poll-result__title">Кто-то другой, не гастролирующий в РФ</div>
+            <div class="poll-result__bar"><div class="poll-result__line" style="width: 9%"></div></div>
+            <div class="poll-result__percent">9,98%<div class="poll-result__count">(2567)</div></div>
+        </div>
+        
+        <div class="poll-result ">
+            <div class="poll-result__title">Украине вообще не нужно участвовать в конкурсе</div>
+            <div class="poll-result__bar"><div class="poll-result__line" style="width: 11%"></div></div>
+            <div class="poll-result__percent">11,01%<div class="poll-result__count">(2834)</div></div>
+        </div>
+        
+        <div class="poll-result ">
+            <div class="poll-result__title">Мне все равно, не смотрю Евровидение</div>
+            <div class="poll-result__bar"><div class="poll-result__line" style="width: 25%"></div></div>
+            <div class="poll-result__percent">25,04%<div class="poll-result__count">(6443)</div></div>
+        </div>
+        
+    </div>
+     
+    <div class="poll-pre"><a href="https://korrespondent.net/votes/">Архив опросов</a></div></div>
+<div class="unit-side-banner"><div id="holder_2890_ros"></div></div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div id="holder_320x100_35"></div>
+
+
+
+
+            
+
+<div style="height: 0px; width: 0px; top:-200px; left:-100px; position:relative; z-index:777; font-size:0px;"><noindex>
+
+<span id='obHP'></span>
+<script type="text/javascript" language="javascript"><!--
+    bmN = navigator, bmD = document, bmD.cookie = 'b=b', i = 0, bs = [], bm = { o: 1, v: 50, s: 50, t: 6, c: bmD.cookie ? 1 : 0, n: Math.round((Math.random() * 1000000)), w: 0 };
+    try { obHP.style.behavior = "url('#default#homePage')"; obHP.addBehavior('#default#homePage'); if (obHP.isHomePage(window.location.href)) bm.h = 1; } catch (e) { ; }
+    for (var f = self; f != f.parent; f = f.parent) bm.w++;
+    try {
+        if (bmN.plugins && bmN.mimeTypes.length && (x = bmN.plugins['Shockwave Flash'])) bm.m = parseInt(x.description.replace(/([a-zA-Z]|s)+/, ''));
+        else for (var f = 3; f < 20; f++) if (eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.' + f + '")')) bm.m = f
+    } catch (e) { ; }
+    try { bm.y = bmN.javaEnabled() ? 1 : 0 } catch (e) { ; }
+    try { bmS = screen; bm.v ^= bm.d = bmS.colorDepth || bmS.pixelDepth; bm.v ^= bm.r = bmS.width } catch (e) { ; }
+    r = bmD.referrer.slice(7); if (r && r.split('/')[0] != window.location.host) { bm.f = escape(r); bm.v ^= r.length }
+    bm.v ^= window.location.href.length; for (var x in bm) if (/^[ohvstcnwmydrf]$/.test(x)) bs[i++] = x + bm[x];
+    bmD.write('<sc' + 'ript type="text/javascript" language="javascript" src="//c.bigmir.net/?' + bs.join('&') + '"></sc' + 'ript>');
+//-->
+</script>
+<noscript><img src="//c.bigmir.net/?v50&s50&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+
+</noindex></div>
+
+
+<div class="subscribe_button"><a href="http://subscribe.korrespondent.net/"></a></div>
+
+<div class="back-top" style="display: none;">
+    <a href="#">
+        <span> </span>
+    </a>
+</div>   
+  
+<div class="layout-footer">
+    <div class="footer">
+        <div class="clearfix">
+            <div class="footer-col">
+                <ul class="footer-list footer-list_icons">
+                    
+                    <li class="footer-list__item"><a href="https://www.facebook.com/korrespondent.net" target="_blank" rel="nofollow"><i class="i-fb"></i>Facebook </a></li>
+                    
+                    <li class="footer-list__item"><a href="https://twitter.com/korrespondent" target="_blank" rel="nofollow"><i class="i-tweet"></i>Twitter </a></li>
+                    <li class="footer-list__item"><a href="https://plus.google.com/+Korrespondent/posts" target="_blank" rel="nofollow"><i class="i-google"></i>Google+</a> </li>
+                    <li class="footer-list__item"><a href="https://korrespondent.net/rss_subscription/"><i class="i-rss"></i>RSS-ленты</a></li>
+                    <li class="footer-list__item"><a href="#" onclick="$('body').animate({ scrollTop: 0 }, 500, function () {korr.modules.menu.authShow(event);});"><i class="i-email"></i>E-mail рассылка</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <div id="siteLinksUmhGroup"></div>
+                <script type="text/javascript" src="//ui.ill.in.ua/s/groupsites.js?site=korrespondent.net"></script>
+
+                <ul class="footer-list foter-list_next">                    
+                    <li class="footer-list__item"><a href="https://korrespondent.net/contacts/" class="text_bold">Контакты</a> </li>
+                    <li class="footer-list__item"><a href="https://korrespondent.net/magazine/advert/" class="text_bold">Реклама на сайте</a></li>
+                    <li class="footer-list__item"><a href="https://korrespondent.net/new_rules/" class="text_bold">Использование материалов korrespondent.net</a> </li>
+                    <li class="footer-list__item"><a href="https://korrespondent.net/rules/">Правила пользования сайтом</a> </li>
+                    <li class="footer-list__item"><a href="https://korrespondent.net/user_contract/">Договор пользования сайтом</a> </li>
+                </ul>
+            </div>
+                     
+            
+            <div class="footer-col">
+                <div class="magazine">
+                    <a class="magazine__head text_bold" href="https://korrespondent.net/magazine/">Журнал Корреспондент</a> 
+                    <a class="magazine-img" href="https://korrespondent.net/magazine/archive/823/"><img src="https://kor.ill.in.ua/m/86x115/2299789.jpg" alt="" class="article__img"></a>
+                    <div class="magazine-col_right">
+                        <a class="magazine__number text_bold" href="https://korrespondent.net/magazine/archive/823/">№5(821)</a>
+                        <div class="magazine__date">от 14 МАРТА 2019</div>
+                        <div class="magazine__more">
+                            <a href="https://korrespondent.net/magazine/archive/">Архив</a> 
+                            <a href="https://korrespondent.net/magazine/projects/">Проекты журнала</a> 
+                            <a href="https://korrespondent.net/magazine/advert/">Реклама в журнале</a> 
+                            <a href="https://korrespondent.net/magazine/subjects/">Подпишись</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="clear"></div>
+        <ul class="footer-list footer-list_copy">
+            <li class="footer-list__item">© 2000-2019, ООО «Издательский Дом Украинский Медиа Холдинг». Все права защищены.</li>
+            <li class="footer-list__item">Использование любых материалов, размещённых на сайте, разрешается при условии ссылки на Корреспондент.net.</li>            
+<li class="footer-list__item">При копировании материалов со страницы «Новости Украины и мира», для интернет-изданий – обязательна прямая открытая для поисковых систем гиперссылка.             Ссылка должна быть размещена в независимости от полного либо частичного использования материалов. Гиперссылка (для интернет- изданий) – должна быть размещена в подзаголовке или в             первом абзаце материала.</li>
+<li class="footer-list__item">Новости с пометками "Мнение", "Экспертиза", "Заявление", "Регионы", "Деньги", "Власть", "Выборы" публикуются на правах рекламы.</li>
+<li class="footer-list__item">Любое копирование, публикация, републикация и другое распространение информации, которое содержит ссылку на "Интерфакс-Украина", EPA / UPG, строго воспрещается.</li>            
+        </ul>
+        <div class="footer-counters">
+
+<!-- I.UA counter -->
+<script type="text/javascript" language="javascript"><!--
+    iS = '<img src="//r.i.ua/s?u1647&p4&n' + Math.random();
+    iD = document; if (!iD.cookie) iD.cookie = "b=b; path=/"; if (iD.cookie) iS += '&c1';
+    iS += '&d' + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)
++ "&w" + screen.width + '&h' + screen.height;
+    iT = iD.referrer.slice(7); iH = window.location.href.slice(7);
+    ((iI = iT.indexOf('/')) != -1) ? (iT = iT.substring(0, iI)) : (iI = iT.length);
+    if (iT != iH.substring(0, iI)) iS += '&f' + escape(iD.referrer.slice(7));
+    iS += '&r' + escape(iH);
+    iD.write(iS + '" border="0" width="0" height="0" />');
+//--></script><!-- End of I.UA counter -->
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+                               new Image().src = "//counter.yadro.ru/hit?r" +
+escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+";" + Math.random();//--></script><!--/LiveInternet-->
+<noindex>
+<!--LiveInternet logo--><a href="http://www.liveinternet.ru/click"
+target="_blank" rel="nofollow"><img src="//counter.yadro.ru/logo?26.6"
+title="LiveInternet: показано число посетителей за сегодня"
+alt="" border="0" width="0" height="0"/></a><!--/LiveInternet-->
+
+
+<!-- Yandex.Metrika informer -->
+
+</noindex>
+
+<!-- MMI CMeter -->
+<noscript>
+<img
+src="//juke.mmi.bemobile.ua/bug/pic.gif?siteid=korrespondent.net"
+alt=""
+/>
+</noscript>
+<script language="javascript">
+    var tns_already, tnscm_adn = tnscm_adn || [];
+    (function (c, m) { if (c.indexOf && c.indexOf(m) < 0) { c.unshift(m); } } (tnscm_adn, "inline_cm"));
+    if ("undefined" == typeof (tns_already) || null == tns_already || 0 == tns_already) {
+        tns_already = 1;
+        var i = new Image();
+        i.src = "//juke.mmi.bemobile.ua/bug/pic.gif?siteid=korrespondent.net&j=1&nocache=" + Math.random();
+
+        (function () {
+            var p = document.getElementsByTagName('head')[0];
+            var s = document.createElement("script");
+            s.type = "text/javascript";
+            s.src = "//source.mmi.bemobile.ua/cm/cm.js";
+            s.async = true;
+            p.appendChild(s);
+        })();
+    };
+</script>
+<!-- /MMI CMeter -->
+
+<!--bigmir)net TOP 100 Part 2-->
+<a href="http://www.bigmir.net/" target="_blank" rel="nofollow" onClick='img=new Image();img.src="https://www.bigmir.net/?cl=50";'><img src="//c.bigmir.net/?s50&t38&l1" class="vmid" width="160" height="19" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>
+<!--bigmir)net TOP 100 Part 2-->
+        </div>      
+    </div>   
+</div>
+
+
+
+<div id="for_ph_rm"></div>
+
+<script type="text/javascript">
+    (function() {
+        var domain = window.location.hostname,
+            partition = window.location.pathname.split('/')[1],
+            subPartition = window.location.pathname.split('/')[2],
+            container = document.getElementById('for_ph_rm'),
+            ph = document.createElement('DIV'),
+            pid = 'admixer_rm_inner', // other pages
+            dataZone = "0c05bfe1-54d5-4247-b91a-f9da0c4807fe"; // other pages
+        container.appendChild(ph);
+        if ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {
+            // main
+            if (partition == '') {
+                pid = 'admixer_rm_main';
+                dataZone = "5367f7aa-e4a4-4553-8f35-ab84c3212209";
+                // sport
+            } else if (partition == 'sport') {
+                pid = 'admixer_rm_sport';
+                dataZone = "d9610585-aad9-4f2c-a07d-b65ced65f753";
+                // lifestyle
+            } else if (partition == 'lifestyle') {
+                // lifestyle/motors
+                if (subPartition == 'motors') {
+                    pid = 'admixer_rm_lifestyle_motors';
+                    dataZone = "79ed49b5-f5f7-4842-bf5e-107afadc4d71";
+                    // lifestyle/interiors
+                } else if (subPartition == 'interiors') {
+                    pid = 'admixer_rm_lifestyle_interiors';
+                    dataZone = "67b0e1d1-bd84-4819-afe7-62015b4edbe6";
+                    // lifestyle/other
+                } else {
+                    pid = 'admixer_rm_lifestyle';
+                    dataZone = "284bffd9-df61-44aa-8c93-274bf36127a8";
+                }
+                // business
+            } else if (partition == 'business') {
+                pid = 'admixer_rm_business';
+                dataZone = "ae4a30c7-5a10-442d-a4ca-e8b838481a80";
+            }
+        }
+        ph.id = pid;
+        ph.setAttribute('data-zone', dataZone);
+        (window.admixerAds = window.admixerAds || []).push(ph.id);
+    })();
+</script>
+        </div>
+    </div>
+
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div></form>
+    
+
+<div class="popup__overlay">
+    <div class="popup">
+        <a href="#" class="popup__close">X</a>
+        <h2>Ошибка</h2>
+        <div class="message"></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        var $p = $('.popup__overlay');
+
+        $p.click(function (event) {
+            event = event || window.event;
+            if (event.target == this) {
+                $p.css('display', 'none');
+            }
+        });
+
+        $('.popup__close').click(function (event) {
+            event = event || window.event;
+            event.preventDefault ? event.preventDefault() : (event.returnValue = false);
+            event.stopPropagation ? event.stopPropagation() : (event.cancelBubble = true);
+
+            $p.css('display', 'none');
+        });
+    });
+
+    function UserNotification(title, mesage) {
+        $('.message').html(mesage);
+        $('.popup__overlay').css('display', 'block');
+        //        setTimeout(function () { $('.popup__close').click(); }, 5000);
+    }
+
+</script>
+
+<script type="text/javascript">
+    function loginWithFB() {
+        window.open('https://www.facebook.com/dialog/oauth?scope=email&client_id=1779431975635198&redirect_uri=//id.korrespondent.net/aut/fb/login.hnd&response_type=code&state=1', "FBWnd", "resizable=yes,scrollbars=yes");
+    }
+</script>
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P7KPL8" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P7KPL8');</script>
+<!-- End Google Tag Manager -->
+    
+        <script type="text/javascript">
+            function ShowHiddenTop() {
+
+                if ($("#aShowMore i:first").hasClass("ico-down_dark")) {
+                    $('.article_main_second').fadeIn();
+                    $("#aShowMore span:first").text("МЕНЬШЕ ГЛАВНЫХ НОВОСТЕЙ");
+                    $("#aShowMore i:first").removeClass().addClass("ico-up_dark");
+                }
+                else {
+                    $('.article_main_second').fadeOut();
+                    $("#aShowMore span:first").text("БОЛЬШЕ ГЛАВНЫХ НОВОСТЕЙ");
+                    $("#aShowMore i:first").removeClass().addClass("ico-down_dark");
+                }
+            }
+
+            var mql = window.matchMedia("(min-width: 480px) and (max-width: 640px), (min-width: 900px) and (max-width: 1030px)");
+            function changeposition(event) {
+                if (event.matches) {
+                    $('.news-right .section-unit').clone().appendTo('.news-left');
+                    $('.news-right .section-unit').remove();
+
+                } else {
+                    $('.news-left .section-unit').clone().appendTo('.news-right');
+                    $('.news-left .section-unit').remove();
+                }
+            }
+            mql.addListener(changeposition);
+            changeposition(mql);
+
+            $(document).ready(function () {               
+                $('#content-slider-top-disable').royalSlider({
+                    autoHeight: true,
+                    arrowsNav: true,
+                    transitionSpeed: 0,
+                    arrowsNavAutoHide: false,
+                    fadeinLoadedSlide: false,
+                    controlsInside: false,
+                    controlNavigation: 'none',
+                    loop: true,
+                    loopRewind: true,
+                    numImagesToPreload: 1,
+                    autoScaleSlider: true,   
+                    transitionSpeed: 600,
+                    autoPlay: {
+                        // autoplay options go gere
+                        enabled: true,
+                        pauseOnHover: true,             
+                        stopAtAction: false,
+                        delay: 3000
+                    }                
+                });               
+            });            
+        </script>
+    <script type="text/javascript">
+	(function() {
+		var domain = window.location.hostname,
+			partition = window.location.pathname.split('/')[1],
+			subPartition = window.location.pathname.split('/')[2],
+			container = document.getElementById('for_ph_top'),
+			ph = document.createElement('DIV'),
+			pid = 'admixer_top_inner', // other pages
+			dataZone = "70dc9382-7e28-48f6-b087-948ba04b17ad"; // other pages
+		container.appendChild(ph);
+		if ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {
+			// main
+			if (partition == '') {
+				pid = 'admixer_top_main';
+				dataZone = "daef51fe-065a-4e52-8b59-f91a8b546daf";
+			// sport
+			} else if (partition == 'sport') {
+				pid = 'admixer_top_sport';
+				dataZone = "3b38b4d8-2112-454d-8d33-a7e4e5a7e736";
+				
+				// fix for static branding on korrespondent.net/sport
+				new holder("for_ph_top",{block:2183});
+				return;
+				// fix for static branding on korrespondent.net/sport
+				
+			// lifestyle
+			} else if (partition == 'lifestyle') {
+				// lifestyle/motors
+				if (subPartition == 'motors') {
+					pid = 'admixer_top_lifestyle_motors';
+					dataZone = "4cef0087-ad11-42cd-a4ae-1acc3b4160c5";
+				// lifestyle/interiors
+				} else if (subPartition == 'interiors') {
+					pid = 'admixer_top_lifestyle_interiors';
+					dataZone = "2a30d795-0b62-4222-a594-1a1254fe192e";
+					
+				// fix for static branding on korrespondent.net/lifestyle/poker
+				// poker
+				} else if (subPartition == 'poker') {
+					new holder("for_ph_top",{block:2186});
+					return;
+				// fix for static branding on korrespondent.net/lifestyle/poker
+				
+				// lifestyle/other
+				} else {
+					pid = 'admixer_top_lifestyle';
+					dataZone = "3b38b4d8-2112-454d-8d33-a7e4e5a7e736";
+				}
+			// business
+			} else if (partition == 'business') {
+				pid = 'admixer_top_business';
+				dataZone = "c58ce0a7-be84-4440-a74c-916adfc8b6a9";
+			} 
+		}
+		ph.id = pid;
+		ph.setAttribute('data-zone', dataZone);
+		(window.admixerAds = window.admixerAds || []).push(ph.id);
+	})();
+</script><script type="text/javascript">
+$(function () {
+try{
+var $obj = $('.hidden-banner-link');
+$obj.detach();
+$('.time-articles > .article').eq(5).after($obj);
+$obj.css("display", "block");
+new holder("fixed_news_link_400x30",{block:8420});
+}catch(e){}
+});
+</script><script type="text/javascript">
+$(function () {
+try{
+var $obj = $('.hidden-banner');
+$obj.detach();
+$('.time-articles > .article').eq(1).after($obj);
+$obj.css("display", "block");
+new holder("fixed_news_block_400x30",{block:3284});
+}catch(e){}
+});
+</script>
+        <script type="text/javascript">
+            function ShowHidden() {
+                $('.unit-rubric-news .time-articles .article').fadeIn();
+                $('#aShowMoreList').hide();
+                $('.unit-rubric-news .time-articles .time-articles__date').fadeIn();
+            }
+
+            function SetLocalStorage() {
+                var IDs = [];
+                $('.topblog-description input:checked').each( function(){
+                    IDs.push( $(this).attr('id') )
+                } );
+                $.Storage.set('korr.main.lenta', IDs.join(';') + ";");               
+
+                var rubrics = $.Storage.get('korr.main.lenta');
+                if (rubrics != null && rubrics!= "" && rubrics!= ";") {
+                    var href = "/ajax/module.aspx?spm_id=1055&type=%RUBRICID%&IsAjax=true";
+                    ajaxNews1055(href.replace("%RUBRICID%", rubrics));
+                }else{
+                    ajaxNews1055('/ajax/module.aspx?spm_id=1055&type=&IsAjax=true');;                
+                }
+                return false;
+            }
+            
+
+            $('.dropdown-menu .topblog-description').click(function (e) {
+                e.stopPropagation();
+            });
+        </script>
+    <script type="text/javascript">
+new holder("main_content_400x400",{block:3279});
+</script>
+        <script type="text/javascript">
+            jQuery(document).ready(function ($) {
+                $('#csp-_1_9').royalSlider({
+                    autoHeight: true,
+                    imageScaleMode: 'none',
+                    allowCSS3: (navigator.userAgent.indexOf('Safari') > -1) ? false : true,
+                    arrowsNav: true,
+                    transitionSpeed: 0,
+                    arrowsNavAutoHide: false,
+                    fadeinLoadedSlide: false,
+                    controlsInside: false,
+                    controlNavigation: 'none',
+                    loop: false,
+                    loopRewind: true,
+                    numImagesToPreload: 2,
+                    imgWidth: 400,
+                    imgHeight: 253,
+                    imageAlignCenter: false
+                });
+
+                $('#csp-_1_9').each(function () {
+                    var slider = $(this);
+                    var sliderInstance = slider.data('royalSlider');
+
+                    if (sliderInstance) {
+                        var slideCounter = $('#count-_1_9');
+                        if (sliderInstance.numSlides > 1) {
+                            var updCount = function () {
+                                slideCounter.text((sliderInstance.currSlideId + 1) + '/' + sliderInstance.numSlides);
+
+                            };
+                            sliderInstance.ev.on('rsAfterSlideChange', updCount);
+                            updCount();
+                        }
+                    }
+                });
+            });
+        </script>
+    <script type="text/javascript">
+new holder("holder_300x60_85",{block:3285});
+</script><script type="text/javascript">
+new holder("holder_300x60_85",{block:3285});
+</script><script type="text/javascript">
+new holder("holder_300x60_86",{block:3286});
+</script><script type="text/javascript">
+new holder("holder_300x60_86",{block:3286});
+</script><script type="text/javascript">
+new holder("holder_300x60_0",{block:3300});
+</script><script type="text/javascript">
+new holder("holder_300x60_0",{block:3300});
+</script><script type="text/javascript">new holder("holder_300x60_18",{block:7718});</script><script type="text/javascript">new holder("holder_300x60_18",{block:7718});</script><script type="text/javascript">new holder("holder_300x60_19",{block:7719});</script><script type="text/javascript">new holder("holder_300x60_19",{block:7719});</script><script type="text/javascript">
+	(function() {
+		var domain = window.location.hostname,
+			partition = window.location.pathname.split('/')[1],
+			subPartition = window.location.pathname.split('/')[2],
+			container = document.getElementById('for_ph_premium'),
+			ph = document.createElement('DIV'),
+			pid = 'admixer_premium_inner', // other pages
+			dataZone = "4a0a7805-3c27-4eb2-bee9-002932c809fa"; // other pages
+		container.appendChild(ph);
+		if ((domain=='korrespondent.net')||(domain=='ua.korrespondent.net')) {
+			// main
+			if (partition == '') {
+				pid = 'admixer_premium_main';
+				dataZone = "037c2d2b-f410-4470-85dd-99c3d33182a1";
+			// sport
+			} else if (partition == 'sport') {
+				pid = 'admixer_premium_sport';
+				dataZone = "edb71010-c1ef-4050-ad05-6bf51f69b0ae";
+			// lifestyle
+			} else if (partition == 'lifestyle') {
+				// lifestyle/motors
+				if (subPartition == 'motors') {
+					pid = 'admixer_premium_lifestyle_motors';
+					dataZone = "7e151aa8-923d-488a-b109-7e2324b5aab6";
+				// lifestyle/interiors
+				} else if (subPartition == 'interiors') {
+					pid = 'admixer_premium_lifestyle_interiors';
+					dataZone = "6f71e954-6d83-4809-8210-a0d1aae236ce";
+					
+				// fix for static premiun banner on korrespondent.net/lifestyle/poker
+				// poker
+				} else if (subPartition == 'poker') {
+					new holder("for_ph_premium",{block:2209});
+					return;
+				// fix for static premiun banner on korrespondent.net/lifestyle/poker
+				
+				// lifestyle/other
+				} else {
+					pid = 'admixer_premium_lifestyle';
+					dataZone = "e521127e-ad71-4a56-ab04-504818179e45";
+				}
+			// business
+			} else if (partition == 'business') {
+				pid = 'admixer_premium_business';
+				dataZone = "911390e9-a673-4e0d-afde-672bf0b44cf1";
+			}
+		}
+		ph.id = pid;
+		ph.setAttribute('data-zone', dataZone);
+		(window.admixerAds = window.admixerAds || []).push(ph.id);
+	})();
+</script><script type="text/javascript"> new holder("holder_300x100_24",{block:7824});</script><script type="text/javascript">
+new holder("holder_300x60_84",{block:3684});
+</script><script language="javascript" type="text/javascript">$(document).ready(function(){$("#ajNews1064").ajaxComplete(function(request, settings){$("#ajNews1064").attr('class','');$("#shadow1064").css('display', 'none');});});function ajaxNews1064(url){if(document.getElementById("shadow1064") != null) {document.getElementById("shadow1064").className='shad';document.getElementById("shadow1064").style.display='block';document.getElementById("shadow1064").style.position='absolute';document.getElementById("shadow1064").style.backgroundColor='#fff';document.getElementById("shadow1064").style.width = document.getElementById("ajNews1064").offsetWidth+"px";document.getElementById("shadow1064").style.height = document.getElementById("ajNews1064").offsetHeight+"px";document.getElementById("shadow1064").left = document.getElementById("ajNews1064").left+"px";document.getElementById("shadow1064").top = document.getElementById("ajNews1064").top+"px";}if(document.getElementById("shadowPrBar1064") != null) {document.getElementById("shadowPrBar1064").style.marginLeft = document.getElementById("ajNews1064").offsetWidth/2-12 + "px";document.getElementById("shadowPrBar1064").style.marginTop = document.getElementById("shadow1064").clientHeight / 2 + "px";}$.get(url,function(data){ data = data.replace(new RegExp('<[/]?form[^>]*>','gi'), '');document.getElementById("ajNews1064").innerHTML=data;$("#ajNews1064").attr('class','');$("#shadow1064").css('display', 'none');},'html');}</script><script type="text/javascript"> new holder("holder_2222_hp",{block:2222,nowait:1}); </script>
+<script type="text/javascript">new holder("holder_300x30_0",{block:6100});</script>
+<script type="text/javascript">new holder("holder_300x30_40",{block:8040});</script><script type="text/javascript">
+new holder("holder_300x60_92",{block:3292,nowait:1});
+</script><script type="text/javascript">
+if(Domain.RubricId > 0){
+ new holder("holder_300x300_12",{block:5512});
+}
+
+if(Domain.RubricId == 93){
+$('.unit-side-banner').eq(1).insertAfter($('.unit-side-banner').eq(3))
+}
+
+if(Domain.RubricId == 92 || Domain.RubricId == 965 || Domain.RubricId == 966 || Domain.RubricId == 967 || Domain.RubricId == 968 || Domain.RubricId == 969 || Domain.RubricId == 970 || Domain.RubricId == 971 || Domain.RubricId == 2415 || Domain.RubricId == 2446){
+$('.unit-side-banner').eq(2).insertAfter($('.unit-side-banner').eq(1));
+$('.unit-side-banner').eq(3).insertAfter($('.unit-side-banner').eq(2));
+}
+
+if(Domain.RubricId == 100){
+$('.unit-side-banner').eq(3).insertAfter($('.unit-side-banner').eq(1))
+$('.unit-side-banner').eq(4).insertAfter($('.unit-side-banner').eq(2))
+}
+
+
+if(Domain.RubricId == 96){
+$('.unit-side-banner').eq(1).insertBefore($('.unit-side-informer').eq(0))
+}
+</script>	<script type="text/javascript"> new holder("holder_2890_ros",{block:2890}); </script><script type="text/javascript">
+new holder("holder_320x100_35",{block:4035});
+</script><!-- (C)2000-2014 Gemius SA - gemiusAudience / korrespondent.net / Main -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = '1wBKWGd1z2BevM2S0QWUz2YTLXTZ.xuGJ5mshikJ.pr.K7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gaua.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+</body>
+</html>
