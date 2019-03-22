@@ -35,10 +35,9 @@ def main():
     urls = ['https://korrespondent.net/'] # Сайт с которого будем брать новости
     news_bot = TelegramB.BotHandler('767933591:AAFhvDYZcynE4otuncc8TMZQOmCJ3FlDgDE') # Токен телеграм бота
 
-    futures = [call_url(url) for url in urls]
-    asyncio.run(asyncio.wait(futures))
-
     while True:
+        futures = [call_url(url) for url in urls]
+        asyncio.run(asyncio.wait(futures))
         time.sleep(180)
 
         f = open('url.txt', 'r', encoding="utf-8") # !Были проблеммы с кодировкой отдельных символов
@@ -82,7 +81,7 @@ def main():
                                 break
 
                             news.append(link) # Добавление в список всех новостей
-                            news_bot.send_message(440590142, '{}'.format(link)) # Отправка сообщения телеграм бота
+                            news_bot.send_message(-1001455367918, '{}'.format(link)) # Отправка сообщения телеграм бота
                             print(title, '-----', link)
                             finfinH = 0
                             break
